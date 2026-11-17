@@ -1,0 +1,1981 @@
+﻿competencia,codigo_centro,centro_custo,tipo_centro,categoria_custo,orcado,realizado
+2025-01-01,1001,UTI Adulto,Assistencial,Pessoal,1210560.0,1263197.59
+2025-01-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,698400.0,706829.3
+2025-01-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,186240.0,168067.44
+2025-01-01,1001,UTI Adulto,Assistencial,Manutenção,93120.0,94507.03
+2025-01-01,1001,UTI Adulto,Assistencial,Utilidades,69840.0,71547.25
+2025-01-01,1001,UTI Adulto,Assistencial,Outras Despesas,69840.0,73439.99
+2025-01-01,1002,UTI Neonatal,Assistencial,Pessoal,756600.0,806862.79
+2025-01-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,436500.0,409054.73
+2025-01-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,116400.0,114463.05
+2025-01-01,1002,UTI Neonatal,Assistencial,Manutenção,58200.0,61099.4
+2025-01-01,1002,UTI Neonatal,Assistencial,Utilidades,43650.0,44603.3
+2025-01-01,1002,UTI Neonatal,Assistencial,Outras Despesas,43650.0,46613.04
+2025-01-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1142660.0,1194924.63
+2025-01-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1353150.0,1310771.71
+2025-01-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,210490.0,204267.03
+2025-01-01,1003,Centro Cirúrgico,Assistencial,Manutenção,120280.0,135059.49
+2025-01-01,1003,Centro Cirúrgico,Assistencial,Utilidades,90210.0,90512.75
+2025-01-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,90210.0,93977.68
+2025-01-01,1004,Pronto-Socorro,Assistencial,Pessoal,958360.0,943463.2
+2025-01-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,552900.0,546605.0
+2025-01-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,147440.0,146272.93
+2025-01-01,1004,Pronto-Socorro,Assistencial,Manutenção,73720.0,74571.79
+2025-01-01,1004,Pronto-Socorro,Assistencial,Utilidades,55290.0,57405.98
+2025-01-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,55290.0,59069.08
+2025-01-01,1005,Internação Clínica,Assistencial,Pessoal,1008800.0,1051795.66
+2025-01-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,582000.0,588675.61
+2025-01-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,155200.0,144553.01
+2025-01-01,1005,Internação Clínica,Assistencial,Manutenção,77600.0,78091.7
+2025-01-01,1005,Internação Clínica,Assistencial,Utilidades,58200.0,58737.13
+2025-01-01,1005,Internação Clínica,Assistencial,Outras Despesas,58200.0,59229.38
+2025-01-01,1006,Maternidade,Assistencial,Pessoal,605280.0,624227.35
+2025-01-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,349200.0,328117.6
+2025-01-01,1006,Maternidade,Assistencial,Serviços Terceirizados,93120.0,87913.33
+2025-01-01,1006,Maternidade,Assistencial,Manutenção,46560.0,47870.3
+2025-01-01,1006,Maternidade,Assistencial,Utilidades,34920.0,36908.26
+2025-01-01,1006,Maternidade,Assistencial,Outras Despesas,34920.0,34087.62
+2025-01-01,1007,Hemodinâmica,Assistencial,Pessoal,554840.0,578931.51
+2025-01-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,320100.0,309248.69
+2025-01-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,85360.0,78980.16
+2025-01-01,1007,Hemodinâmica,Assistencial,Manutenção,42680.0,45135.49
+2025-01-01,1007,Hemodinâmica,Assistencial,Utilidades,32010.0,33399.45
+2025-01-01,1007,Hemodinâmica,Assistencial,Outras Despesas,32010.0,32182.7
+2025-01-01,2001,Laboratório,Apoio,Pessoal,349200.0,355698.78
+2025-01-01,2001,Laboratório,Apoio,Materiais e Medicamentos,261900.0,244431.48
+2025-01-01,2001,Laboratório,Apoio,Serviços Terceirizados,130950.0,124437.1
+2025-01-01,2001,Laboratório,Apoio,Manutenção,52380.0,55716.22
+2025-01-01,2001,Laboratório,Apoio,Utilidades,43650.0,44155.1
+2025-01-01,2001,Laboratório,Apoio,Outras Despesas,34920.0,33570.54
+2025-01-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,441350.0,454742.46
+2025-01-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,252200.0,226095.39
+2025-01-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,189150.0,173170.64
+2025-01-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,252200.0,261164.4
+2025-01-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,63050.0,63279.3
+2025-01-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,63050.0,62352.81
+2025-01-01,2003,Farmácia,Apoio,Pessoal,203700.0,207822.81
+2025-01-01,2003,Farmácia,Apoio,Materiais e Medicamentos,373450.0,373864.21
+2025-01-01,2003,Farmácia,Apoio,Serviços Terceirizados,33950.0,32899.69
+2025-01-01,2003,Farmácia,Apoio,Manutenção,20370.0,20583.5
+2025-01-01,2003,Farmácia,Apoio,Utilidades,20370.0,21002.54
+2025-01-01,2003,Farmácia,Apoio,Outras Despesas,27160.0,29724.71
+2025-01-01,2004,Nutrição e Dietética,Apoio,Pessoal,220675.0,225363.88
+2025-01-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,283725.0,274878.14
+2025-01-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,50440.0,51010.82
+2025-01-01,2004,Nutrição e Dietética,Apoio,Manutenção,25220.0,26666.52
+2025-01-01,2004,Nutrição e Dietética,Apoio,Utilidades,31525.0,31651.53
+2025-01-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,18915.0,18601.17
+2025-01-01,2005,Lavanderia,Apoio,Pessoal,135800.0,140364.45
+2025-01-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,101850.0,96553.01
+2025-01-01,2005,Lavanderia,Apoio,Serviços Terceirizados,50925.0,45915.26
+2025-01-01,2005,Lavanderia,Apoio,Manutenção,20370.0,20913.04
+2025-01-01,2005,Lavanderia,Apoio,Utilidades,16975.0,19076.89
+2025-01-01,2005,Lavanderia,Apoio,Outras Despesas,13580.0,14833.71
+2025-01-01,3001,Administração Geral,Administrativo,Pessoal,485000.0,488601.55
+2025-01-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,48500.0,44096.05
+2025-01-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,242500.0,223995.47
+2025-01-01,3001,Administração Geral,Administrativo,Manutenção,77600.0,78761.14
+2025-01-01,3001,Administração Geral,Administrativo,Utilidades,58200.0,61275.97
+2025-01-01,3001,Administração Geral,Administrativo,Outras Despesas,58200.0,57398.09
+2025-01-01,3002,TI,Administrativo,Pessoal,232800.0,237537.7
+2025-01-01,3002,TI,Administrativo,Materiais e Medicamentos,23280.0,22861.93
+2025-01-01,3002,TI,Administrativo,Serviços Terceirizados,116400.0,101275.8
+2025-01-01,3002,TI,Administrativo,Manutenção,37248.0,38176.11
+2025-01-01,3002,TI,Administrativo,Utilidades,27936.0,27203.35
+2025-01-01,3002,TI,Administrativo,Outras Despesas,27936.0,30813.63
+2025-01-01,3003,Manutenção Predial,Administrativo,Pessoal,252200.0,253809.87
+2025-01-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,25220.0,24661.6
+2025-01-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,126100.0,120781.8
+2025-01-01,3003,Manutenção Predial,Administrativo,Manutenção,40352.0,41399.27
+2025-01-01,3003,Manutenção Predial,Administrativo,Utilidades,30264.0,31400.45
+2025-01-01,3003,Manutenção Predial,Administrativo,Outras Despesas,30264.0,29485.64
+2025-02-01,1001,UTI Adulto,Assistencial,Pessoal,1219033.92,1336053.44
+2025-02-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,703288.8,676411.02
+2025-02-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,187543.68,178436.55
+2025-02-01,1001,UTI Adulto,Assistencial,Manutenção,93771.84,101918.74
+2025-02-01,1001,UTI Adulto,Assistencial,Utilidades,70328.88,71517.32
+2025-02-01,1001,UTI Adulto,Assistencial,Outras Despesas,70328.88,74866.99
+2025-02-01,1002,UTI Neonatal,Assistencial,Pessoal,761896.2,729409.51
+2025-02-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,439555.5,467462.83
+2025-02-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,117214.8,124987.67
+2025-02-01,1002,UTI Neonatal,Assistencial,Manutenção,58607.4,59307.18
+2025-02-01,1002,UTI Neonatal,Assistencial,Utilidades,43955.55,44277.6
+2025-02-01,1002,UTI Neonatal,Assistencial,Outras Despesas,43955.55,45782.53
+2025-02-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1150658.62,1197771.97
+2025-02-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1362622.05,1428188.32
+2025-02-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,211963.43,211389.71
+2025-02-01,1003,Centro Cirúrgico,Assistencial,Manutenção,121121.96,115931.87
+2025-02-01,1003,Centro Cirúrgico,Assistencial,Utilidades,90841.47,90436.57
+2025-02-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,90841.47,88723.54
+2025-02-01,1004,Pronto-Socorro,Assistencial,Pessoal,965068.52,975402.58
+2025-02-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,556770.3,557916.35
+2025-02-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,148472.08,149699.22
+2025-02-01,1004,Pronto-Socorro,Assistencial,Manutenção,74236.04,79235.17
+2025-02-01,1004,Pronto-Socorro,Assistencial,Utilidades,55677.03,58146.78
+2025-02-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,55677.03,56255.34
+2025-02-01,1005,Internação Clínica,Assistencial,Pessoal,1015861.6,1032935.1
+2025-02-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,586074.0,590804.46
+2025-02-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,156286.4,171431.24
+2025-02-01,1005,Internação Clínica,Assistencial,Manutenção,78143.2,80011.34
+2025-02-01,1005,Internação Clínica,Assistencial,Utilidades,58607.4,56689.45
+2025-02-01,1005,Internação Clínica,Assistencial,Outras Despesas,58607.4,60564.06
+2025-02-01,1006,Maternidade,Assistencial,Pessoal,609516.96,569803.68
+2025-02-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,351644.4,339712.49
+2025-02-01,1006,Maternidade,Assistencial,Serviços Terceirizados,93771.84,87404.51
+2025-02-01,1006,Maternidade,Assistencial,Manutenção,46885.92,46277.54
+2025-02-01,1006,Maternidade,Assistencial,Utilidades,35164.44,33699.28
+2025-02-01,1006,Maternidade,Assistencial,Outras Despesas,35164.44,38351.39
+2025-02-01,1007,Hemodinâmica,Assistencial,Pessoal,558723.88,658056.5
+2025-02-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,322340.7,295751.14
+2025-02-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,85957.52,81444.65
+2025-02-01,1007,Hemodinâmica,Assistencial,Manutenção,42978.76,47482.04
+2025-02-01,1007,Hemodinâmica,Assistencial,Utilidades,32234.07,32398.05
+2025-02-01,1007,Hemodinâmica,Assistencial,Outras Despesas,32234.07,34155.33
+2025-02-01,2001,Laboratório,Apoio,Pessoal,351644.4,351443.04
+2025-02-01,2001,Laboratório,Apoio,Materiais e Medicamentos,263733.3,258384.35
+2025-02-01,2001,Laboratório,Apoio,Serviços Terceirizados,131866.65,131719.67
+2025-02-01,2001,Laboratório,Apoio,Manutenção,52746.66,54863.1
+2025-02-01,2001,Laboratório,Apoio,Utilidades,43955.55,46239.4
+2025-02-01,2001,Laboratório,Apoio,Outras Despesas,35164.44,36485.64
+2025-02-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,444439.45,458208.14
+2025-02-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,253965.4,267039.93
+2025-02-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,190474.05,196540.85
+2025-02-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,253965.4,255301.86
+2025-02-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,63491.35,67279.49
+2025-02-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,63491.35,66878.04
+2025-02-01,2003,Farmácia,Apoio,Pessoal,205125.9,203546.6
+2025-02-01,2003,Farmácia,Apoio,Materiais e Medicamentos,376064.15,377153.82
+2025-02-01,2003,Farmácia,Apoio,Serviços Terceirizados,34187.65,35283.96
+2025-02-01,2003,Farmácia,Apoio,Manutenção,20512.59,20904.68
+2025-02-01,2003,Farmácia,Apoio,Utilidades,20512.59,20888.74
+2025-02-01,2003,Farmácia,Apoio,Outras Despesas,27350.12,29848.59
+2025-02-01,2004,Nutrição e Dietética,Apoio,Pessoal,222219.72,229636.55
+2025-02-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,285711.07,265128.94
+2025-02-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,50793.08,45925.36
+2025-02-01,2004,Nutrição e Dietética,Apoio,Manutenção,25396.54,25793.56
+2025-02-01,2004,Nutrição e Dietética,Apoio,Utilidades,31745.67,31547.05
+2025-02-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,19047.4,19619.49
+2025-02-01,2005,Lavanderia,Apoio,Pessoal,136750.6,136827.97
+2025-02-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,102562.95,106892.21
+2025-02-01,2005,Lavanderia,Apoio,Serviços Terceirizados,51281.47,52028.67
+2025-02-01,2005,Lavanderia,Apoio,Manutenção,20512.59,22668.14
+2025-02-01,2005,Lavanderia,Apoio,Utilidades,17093.82,18922.88
+2025-02-01,2005,Lavanderia,Apoio,Outras Despesas,13675.06,14633.96
+2025-02-01,3001,Administração Geral,Administrativo,Pessoal,488395.0,489910.65
+2025-02-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,48839.5,49961.09
+2025-02-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,244197.5,229552.69
+2025-02-01,3001,Administração Geral,Administrativo,Manutenção,78143.2,80829.12
+2025-02-01,3001,Administração Geral,Administrativo,Utilidades,58607.4,63217.35
+2025-02-01,3001,Administração Geral,Administrativo,Outras Despesas,58607.4,63774.13
+2025-02-01,3002,TI,Administrativo,Pessoal,234429.6,230240.9
+2025-02-01,3002,TI,Administrativo,Materiais e Medicamentos,23442.96,21755.35
+2025-02-01,3002,TI,Administrativo,Serviços Terceirizados,117214.8,111059.51
+2025-02-01,3002,TI,Administrativo,Manutenção,37508.74,37944.79
+2025-02-01,3002,TI,Administrativo,Utilidades,28131.55,28571.23
+2025-02-01,3002,TI,Administrativo,Outras Despesas,28131.55,27705.31
+2025-02-01,3003,Manutenção Predial,Administrativo,Pessoal,253965.4,272408.88
+2025-02-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,25396.54,23211.98
+2025-02-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,126982.7,128901.69
+2025-02-01,3003,Manutenção Predial,Administrativo,Manutenção,40634.46,42572.18
+2025-02-01,3003,Manutenção Predial,Administrativo,Utilidades,30475.85,29574.99
+2025-02-01,3003,Manutenção Predial,Administrativo,Outras Despesas,30475.85,31825.75
+2025-03-01,1001,UTI Adulto,Assistencial,Pessoal,1227567.16,1310874.63
+2025-03-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,708211.82,717691.48
+2025-03-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,188856.49,181184.11
+2025-03-01,1001,UTI Adulto,Assistencial,Manutenção,94428.24,102533.32
+2025-03-01,1001,UTI Adulto,Assistencial,Utilidades,70821.18,73866.97
+2025-03-01,1001,UTI Adulto,Assistencial,Outras Despesas,70821.18,70785.98
+2025-03-01,1002,UTI Neonatal,Assistencial,Pessoal,767229.47,825651.24
+2025-03-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,442632.39,435169.32
+2025-03-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,118035.3,120432.55
+2025-03-01,1002,UTI Neonatal,Assistencial,Manutenção,59017.65,60344.6
+2025-03-01,1002,UTI Neonatal,Assistencial,Utilidades,44263.24,45382.6
+2025-03-01,1002,UTI Neonatal,Assistencial,Outras Despesas,44263.24,46189.07
+2025-03-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1158713.23,1234551.78
+2025-03-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1372160.4,1580693.44
+2025-03-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,213447.17,223704.92
+2025-03-01,1003,Centro Cirúrgico,Assistencial,Manutenção,121969.81,129445.01
+2025-03-01,1003,Centro Cirúrgico,Assistencial,Utilidades,91477.36,93966.84
+2025-03-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,91477.36,90094.52
+2025-03-01,1004,Pronto-Socorro,Assistencial,Pessoal,971824.0,1005941.42
+2025-03-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,560667.69,560937.25
+2025-03-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,149511.38,148171.85
+2025-03-01,1004,Pronto-Socorro,Assistencial,Manutenção,74755.69,68605.3
+2025-03-01,1004,Pronto-Socorro,Assistencial,Utilidades,56066.77,56736.95
+2025-03-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,56066.77,59731.81
+2025-03-01,1005,Internação Clínica,Assistencial,Pessoal,1022972.63,1079048.72
+2025-03-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,590176.52,604729.33
+2025-03-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,157380.4,164641.91
+2025-03-01,1005,Internação Clínica,Assistencial,Manutenção,78690.2,83880.47
+2025-03-01,1005,Internação Clínica,Assistencial,Utilidades,59017.65,61652.22
+2025-03-01,1005,Internação Clínica,Assistencial,Outras Despesas,59017.65,60269.41
+2025-03-01,1006,Maternidade,Assistencial,Pessoal,613783.58,584220.73
+2025-03-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,354105.91,311843.74
+2025-03-01,1006,Maternidade,Assistencial,Serviços Terceirizados,94428.24,89036.96
+2025-03-01,1006,Maternidade,Assistencial,Manutenção,47214.12,48633.16
+2025-03-01,1006,Maternidade,Assistencial,Utilidades,35410.59,38128.49
+2025-03-01,1006,Maternidade,Assistencial,Outras Despesas,35410.59,37099.4
+2025-03-01,1007,Hemodinâmica,Assistencial,Pessoal,562634.95,559025.55
+2025-03-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,324597.08,315982.79
+2025-03-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,86559.22,86318.86
+2025-03-01,1007,Hemodinâmica,Assistencial,Manutenção,43279.61,45722.29
+2025-03-01,1007,Hemodinâmica,Assistencial,Utilidades,32459.71,32455.54
+2025-03-01,1007,Hemodinâmica,Assistencial,Outras Despesas,32459.71,32271.51
+2025-03-01,2001,Laboratório,Apoio,Pessoal,354105.91,367499.83
+2025-03-01,2001,Laboratório,Apoio,Materiais e Medicamentos,265579.43,266069.31
+2025-03-01,2001,Laboratório,Apoio,Serviços Terceirizados,132789.72,133410.83
+2025-03-01,2001,Laboratório,Apoio,Manutenção,53115.89,52463.67
+2025-03-01,2001,Laboratório,Apoio,Utilidades,44263.24,45546.54
+2025-03-01,2001,Laboratório,Apoio,Outras Despesas,35410.59,37167.88
+2025-03-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,447550.53,469447.28
+2025-03-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,255743.16,257350.44
+2025-03-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,191807.37,203993.49
+2025-03-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,255743.16,263581.05
+2025-03-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,63935.79,71214.07
+2025-03-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,63935.79,68088.49
+2025-03-01,2003,Farmácia,Apoio,Pessoal,206561.78,212776.89
+2025-03-01,2003,Farmácia,Apoio,Materiais e Medicamentos,378696.6,402246.95
+2025-03-01,2003,Farmácia,Apoio,Serviços Terceirizados,34426.96,37050.9
+2025-03-01,2003,Farmácia,Apoio,Manutenção,20656.18,19712.95
+2025-03-01,2003,Farmácia,Apoio,Utilidades,20656.18,19719.77
+2025-03-01,2003,Farmácia,Apoio,Outras Despesas,27541.57,27851.87
+2025-03-01,2004,Nutrição e Dietética,Apoio,Pessoal,223775.26,225557.75
+2025-03-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,287711.05,317799.04
+2025-03-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,51148.63,54863.61
+2025-03-01,2004,Nutrição e Dietética,Apoio,Manutenção,25574.32,26417.96
+2025-03-01,2004,Nutrição e Dietética,Apoio,Utilidades,31967.89,32794.9
+2025-03-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,19180.74,19181.31
+2025-03-01,2005,Lavanderia,Apoio,Pessoal,137707.85,148642.54
+2025-03-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,103280.89,112321.62
+2025-03-01,2005,Lavanderia,Apoio,Serviços Terceirizados,51640.45,53388.86
+2025-03-01,2005,Lavanderia,Apoio,Manutenção,20656.18,21413.89
+2025-03-01,2005,Lavanderia,Apoio,Utilidades,17213.48,17149.23
+2025-03-01,2005,Lavanderia,Apoio,Outras Despesas,13770.79,13803.38
+2025-03-01,3001,Administração Geral,Administrativo,Pessoal,491813.76,522142.75
+2025-03-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,49181.38,51093.94
+2025-03-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,245906.88,262896.05
+2025-03-01,3001,Administração Geral,Administrativo,Manutenção,78690.2,83606.74
+2025-03-01,3001,Administração Geral,Administrativo,Utilidades,59017.65,58347.76
+2025-03-01,3001,Administração Geral,Administrativo,Outras Despesas,59017.65,55548.91
+2025-03-01,3002,TI,Administrativo,Pessoal,236070.61,239532.57
+2025-03-01,3002,TI,Administrativo,Materiais e Medicamentos,23607.06,23833.31
+2025-03-01,3002,TI,Administrativo,Serviços Terceirizados,118035.3,104609.42
+2025-03-01,3002,TI,Administrativo,Manutenção,37771.3,42214.35
+2025-03-01,3002,TI,Administrativo,Utilidades,28328.47,28730.46
+2025-03-01,3002,TI,Administrativo,Outras Despesas,28328.47,27600.76
+2025-03-01,3003,Manutenção Predial,Administrativo,Pessoal,255743.16,262926.41
+2025-03-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,25574.32,26908.34
+2025-03-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,127871.58,132280.02
+2025-03-01,3003,Manutenção Predial,Administrativo,Manutenção,40918.91,41430.99
+2025-03-01,3003,Manutenção Predial,Administrativo,Utilidades,30689.18,34062.11
+2025-03-01,3003,Manutenção Predial,Administrativo,Outras Despesas,30689.18,30076.01
+2025-04-01,1001,UTI Adulto,Assistencial,Pessoal,1236160.13,1338805.21
+2025-04-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,713169.3,777151.45
+2025-04-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,190178.48,222779.5
+2025-04-01,1001,UTI Adulto,Assistencial,Manutenção,95089.24,99119.22
+2025-04-01,1001,UTI Adulto,Assistencial,Utilidades,71316.93,74124.28
+2025-04-01,1001,UTI Adulto,Assistencial,Outras Despesas,71316.93,71157.92
+2025-04-01,1002,UTI Neonatal,Assistencial,Pessoal,772600.08,786577.96
+2025-04-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,445730.82,473037.18
+2025-04-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,118861.55,109531.91
+2025-04-01,1002,UTI Neonatal,Assistencial,Manutenção,59430.78,56529.65
+2025-04-01,1002,UTI Neonatal,Assistencial,Utilidades,44573.08,45777.38
+2025-04-01,1002,UTI Neonatal,Assistencial,Outras Despesas,44573.08,45336.31
+2025-04-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1166824.22,1216139.32
+2025-04-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1381765.53,1520158.23
+2025-04-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,214941.3,233983.49
+2025-04-01,1003,Centro Cirúrgico,Assistencial,Manutenção,122823.6,129032.84
+2025-04-01,1003,Centro Cirúrgico,Assistencial,Utilidades,92117.7,97446.87
+2025-04-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,92117.7,91680.45
+2025-04-01,1004,Pronto-Socorro,Assistencial,Pessoal,978626.77,991817.25
+2025-04-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,564592.37,586935.01
+2025-04-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,150557.96,154816.97
+2025-04-01,1004,Pronto-Socorro,Assistencial,Manutenção,75278.98,79326.46
+2025-04-01,1004,Pronto-Socorro,Assistencial,Utilidades,56459.24,58433.46
+2025-04-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,56459.24,58809.9
+2025-04-01,1005,Internação Clínica,Assistencial,Pessoal,1030133.44,1070741.76
+2025-04-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,594307.75,584862.73
+2025-04-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,158482.07,162801.46
+2025-04-01,1005,Internação Clínica,Assistencial,Manutenção,79241.03,83979.97
+2025-04-01,1005,Internação Clínica,Assistencial,Utilidades,59430.78,61748.04
+2025-04-01,1005,Internação Clínica,Assistencial,Outras Despesas,59430.78,55787.25
+2025-04-01,1006,Maternidade,Assistencial,Pessoal,618080.06,643762.43
+2025-04-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,356584.65,406012.21
+2025-04-01,1006,Maternidade,Assistencial,Serviços Terceirizados,95089.24,95885.33
+2025-04-01,1006,Maternidade,Assistencial,Manutenção,47544.62,48797.94
+2025-04-01,1006,Maternidade,Assistencial,Utilidades,35658.47,35830.17
+2025-04-01,1006,Maternidade,Assistencial,Outras Despesas,35658.47,39472.91
+2025-04-01,1007,Hemodinâmica,Assistencial,Pessoal,566573.39,568139.43
+2025-04-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,326869.26,345640.8
+2025-04-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,87165.14,90189.74
+2025-04-01,1007,Hemodinâmica,Assistencial,Manutenção,43582.57,44569.47
+2025-04-01,1007,Hemodinâmica,Assistencial,Utilidades,32686.93,35027.74
+2025-04-01,1007,Hemodinâmica,Assistencial,Outras Despesas,32686.93,32526.07
+2025-04-01,2001,Laboratório,Apoio,Pessoal,356584.65,345546.95
+2025-04-01,2001,Laboratório,Apoio,Materiais e Medicamentos,267438.49,297721.61
+2025-04-01,2001,Laboratório,Apoio,Serviços Terceirizados,133719.24,139957.13
+2025-04-01,2001,Laboratório,Apoio,Manutenção,53487.7,52229.92
+2025-04-01,2001,Laboratório,Apoio,Utilidades,44573.08,44769.9
+2025-04-01,2001,Laboratório,Apoio,Outras Despesas,35658.47,37020.15
+2025-04-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,450683.38,466191.82
+2025-04-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,257533.36,269822.56
+2025-04-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,193150.02,204225.64
+2025-04-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,257533.36,267602.0
+2025-04-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,64383.34,64732.58
+2025-04-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,64383.34,64935.66
+2025-04-01,2003,Farmácia,Apoio,Pessoal,208007.71,218939.86
+2025-04-01,2003,Farmácia,Apoio,Materiais e Medicamentos,381347.48,394126.39
+2025-04-01,2003,Farmácia,Apoio,Serviços Terceirizados,34667.95,38276.71
+2025-04-01,2003,Farmácia,Apoio,Manutenção,20800.77,21175.47
+2025-04-01,2003,Farmácia,Apoio,Utilidades,20800.77,21541.14
+2025-04-01,2003,Farmácia,Apoio,Outras Despesas,27734.36,27120.24
+2025-04-01,2004,Nutrição e Dietética,Apoio,Pessoal,225341.69,240846.14
+2025-04-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,289725.03,311209.06
+2025-04-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,51506.67,55751.29
+2025-04-01,2004,Nutrição e Dietética,Apoio,Manutenção,25753.34,24971.46
+2025-04-01,2004,Nutrição e Dietética,Apoio,Utilidades,32191.67,32735.15
+2025-04-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,19315.0,20307.58
+2025-04-01,2005,Lavanderia,Apoio,Pessoal,138671.81,143670.74
+2025-04-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,104003.86,117865.11
+2025-04-01,2005,Lavanderia,Apoio,Serviços Terceirizados,52001.93,56245.95
+2025-04-01,2005,Lavanderia,Apoio,Manutenção,20800.77,22493.34
+2025-04-01,2005,Lavanderia,Apoio,Utilidades,17333.98,16599.84
+2025-04-01,2005,Lavanderia,Apoio,Outras Despesas,13867.18,13779.0
+2025-04-01,3001,Administração Geral,Administrativo,Pessoal,495256.46,475741.81
+2025-04-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,49525.65,48975.92
+2025-04-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,247628.23,266164.2
+2025-04-01,3001,Administração Geral,Administrativo,Manutenção,79241.03,72912.73
+2025-04-01,3001,Administração Geral,Administrativo,Utilidades,59430.78,62589.46
+2025-04-01,3001,Administração Geral,Administrativo,Outras Despesas,59430.78,57461.33
+2025-04-01,3002,TI,Administrativo,Pessoal,237723.1,268912.6
+2025-04-01,3002,TI,Administrativo,Materiais e Medicamentos,23772.31,26401.82
+2025-04-01,3002,TI,Administrativo,Serviços Terceirizados,118861.55,124278.86
+2025-04-01,3002,TI,Administrativo,Manutenção,38035.7,40318.23
+2025-04-01,3002,TI,Administrativo,Utilidades,28526.77,31099.77
+2025-04-01,3002,TI,Administrativo,Outras Despesas,28526.77,28659.86
+2025-04-01,3003,Manutenção Predial,Administrativo,Pessoal,257533.36,284024.22
+2025-04-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,25753.34,26577.56
+2025-04-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,128766.68,133066.8
+2025-04-01,3003,Manutenção Predial,Administrativo,Manutenção,41205.34,42234.47
+2025-04-01,3003,Manutenção Predial,Administrativo,Utilidades,30904.0,29462.39
+2025-04-01,3003,Manutenção Predial,Administrativo,Outras Despesas,30904.0,30481.2
+2025-05-01,1001,UTI Adulto,Assistencial,Pessoal,1313277.98,1285744.67
+2025-05-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,718161.49,751548.57
+2025-05-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,191509.73,210720.9
+2025-05-01,1001,UTI Adulto,Assistencial,Manutenção,95754.87,94331.26
+2025-05-01,1001,UTI Adulto,Assistencial,Utilidades,71816.15,76918.77
+2025-05-01,1001,UTI Adulto,Assistencial,Outras Despesas,71816.15,70310.28
+2025-05-01,1002,UTI Neonatal,Assistencial,Pessoal,820798.74,853181.27
+2025-05-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,448850.93,519226.95
+2025-05-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,119693.58,129369.59
+2025-05-01,1002,UTI Neonatal,Assistencial,Manutenção,59846.79,61126.75
+2025-05-01,1002,UTI Neonatal,Assistencial,Utilidades,44885.09,42632.58
+2025-05-01,1002,UTI Neonatal,Assistencial,Outras Despesas,44885.09,46070.61
+2025-05-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1239616.55,1183405.83
+2025-05-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1391437.89,1481422.52
+2025-05-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,216445.89,235895.02
+2025-05-01,1003,Centro Cirúrgico,Assistencial,Manutenção,123683.37,131614.74
+2025-05-01,1003,Centro Cirúrgico,Assistencial,Utilidades,92762.53,92365.84
+2025-05-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,92762.53,95574.61
+2025-05-01,1004,Pronto-Socorro,Assistencial,Pessoal,1039678.4,1079388.82
+2025-05-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,568544.51,659158.21
+2025-05-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,151611.87,179979.57
+2025-05-01,1004,Pronto-Socorro,Assistencial,Manutenção,75805.94,74053.99
+2025-05-01,1004,Pronto-Socorro,Assistencial,Utilidades,56854.45,58787.43
+2025-05-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,56854.45,57240.95
+2025-05-01,1005,Internação Clínica,Assistencial,Pessoal,1094398.31,1222759.41
+2025-05-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,598467.91,694106.67
+2025-05-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,159591.44,178837.39
+2025-05-01,1005,Internação Clínica,Assistencial,Manutenção,79795.72,81124.56
+2025-05-01,1005,Internação Clínica,Assistencial,Utilidades,59846.79,58946.45
+2025-05-01,1005,Internação Clínica,Assistencial,Outras Despesas,59846.79,67941.33
+2025-05-01,1006,Maternidade,Assistencial,Pessoal,656638.99,702028.0
+2025-05-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,359080.74,402625.68
+2025-05-01,1006,Maternidade,Assistencial,Serviços Terceirizados,95754.87,110675.34
+2025-05-01,1006,Maternidade,Assistencial,Manutenção,47877.43,51214.45
+2025-05-01,1006,Maternidade,Assistencial,Utilidades,35908.07,37832.82
+2025-05-01,1006,Maternidade,Assistencial,Outras Despesas,35908.07,36112.7
+2025-05-01,1007,Hemodinâmica,Assistencial,Pessoal,601919.07,678295.74
+2025-05-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,329157.35,377759.41
+2025-05-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,87775.29,96633.43
+2025-05-01,1007,Hemodinâmica,Assistencial,Manutenção,43887.65,46141.67
+2025-05-01,1007,Hemodinâmica,Assistencial,Utilidades,32915.73,32562.26
+2025-05-01,1007,Hemodinâmica,Assistencial,Outras Despesas,32915.73,34185.08
+2025-05-01,2001,Laboratório,Apoio,Pessoal,378830.19,416934.68
+2025-05-01,2001,Laboratório,Apoio,Materiais e Medicamentos,269310.56,315418.25
+2025-05-01,2001,Laboratório,Apoio,Serviços Terceirizados,134655.28,152483.96
+2025-05-01,2001,Laboratório,Apoio,Manutenção,53862.11,55780.62
+2025-05-01,2001,Laboratório,Apoio,Utilidades,44885.09,44153.45
+2025-05-01,2001,Laboratório,Apoio,Outras Despesas,35908.07,35832.31
+2025-05-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,478799.26,461637.8
+2025-05-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,259336.09,297080.56
+2025-05-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,194502.07,232533.95
+2025-05-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,259336.09,282170.75
+2025-05-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,64834.02,64625.24
+2025-05-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,64834.02,66572.68
+2025-05-01,2003,Farmácia,Apoio,Pessoal,220984.27,230181.26
+2025-05-01,2003,Farmácia,Apoio,Materiais e Medicamentos,384016.91,430302.5
+2025-05-01,2003,Farmácia,Apoio,Serviços Terceirizados,34910.63,40595.14
+2025-05-01,2003,Farmácia,Apoio,Manutenção,20946.38,21475.2
+2025-05-01,2003,Farmácia,Apoio,Utilidades,20946.38,21597.79
+2025-05-01,2003,Farmácia,Apoio,Outras Despesas,27928.5,27852.57
+2025-05-01,2004,Nutrição e Dietética,Apoio,Pessoal,239399.63,247418.21
+2025-05-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,291753.11,337375.37
+2025-05-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,51867.22,56722.03
+2025-05-01,2004,Nutrição e Dietética,Apoio,Manutenção,25933.61,27999.5
+2025-05-01,2004,Nutrição e Dietética,Apoio,Utilidades,32417.01,30110.72
+2025-05-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,19450.21,19496.23
+2025-05-01,2005,Lavanderia,Apoio,Pessoal,147322.85,158617.33
+2025-05-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,104731.88,106503.06
+2025-05-01,2005,Lavanderia,Apoio,Serviços Terceirizados,52365.94,60332.84
+2025-05-01,2005,Lavanderia,Apoio,Manutenção,20946.38,21113.03
+2025-05-01,2005,Lavanderia,Apoio,Utilidades,17455.31,17353.86
+2025-05-01,2005,Lavanderia,Apoio,Outras Despesas,13964.25,14010.43
+2025-05-01,3001,Administração Geral,Administrativo,Pessoal,526153.04,549608.78
+2025-05-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,49872.33,63320.39
+2025-05-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,249361.63,295199.63
+2025-05-01,3001,Administração Geral,Administrativo,Manutenção,79795.72,84045.99
+2025-05-01,3001,Administração Geral,Administrativo,Utilidades,59846.79,62639.99
+2025-05-01,3001,Administração Geral,Administrativo,Outras Despesas,59846.79,66716.51
+2025-05-01,3002,TI,Administrativo,Pessoal,252553.46,260202.63
+2025-05-01,3002,TI,Administrativo,Materiais e Medicamentos,23938.72,26056.89
+2025-05-01,3002,TI,Administrativo,Serviços Terceirizados,119693.58,129760.18
+2025-05-01,3002,TI,Administrativo,Manutenção,38301.95,39896.4
+2025-05-01,3002,TI,Administrativo,Utilidades,28726.46,29981.3
+2025-05-01,3002,TI,Administrativo,Outras Despesas,28726.46,27536.99
+2025-05-01,3003,Manutenção Predial,Administrativo,Pessoal,273599.58,262104.47
+2025-05-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,25933.61,29919.27
+2025-05-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,129668.05,150425.47
+2025-05-01,3003,Manutenção Predial,Administrativo,Manutenção,41493.77,43658.95
+2025-05-01,3003,Manutenção Predial,Administrativo,Utilidades,31120.33,30912.24
+2025-05-01,3003,Manutenção Predial,Administrativo,Outras Despesas,31120.33,31715.24
+2025-06-01,1001,UTI Adulto,Assistencial,Pessoal,1322470.92,1379286.07
+2025-06-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,723188.62,835778.58
+2025-06-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,192850.3,205994.9
+2025-06-01,1001,UTI Adulto,Assistencial,Manutenção,96425.15,96353.94
+2025-06-01,1001,UTI Adulto,Assistencial,Utilidades,72318.86,73943.36
+2025-06-01,1001,UTI Adulto,Assistencial,Outras Despesas,72318.86,75109.38
+2025-06-01,1002,UTI Neonatal,Assistencial,Pessoal,826544.33,800862.68
+2025-06-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,451992.89,505142.97
+2025-06-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,120531.44,139650.54
+2025-06-01,1002,UTI Neonatal,Assistencial,Manutenção,60265.72,55680.42
+2025-06-01,1002,UTI Neonatal,Assistencial,Utilidades,45199.29,43897.71
+2025-06-01,1002,UTI Neonatal,Assistencial,Outras Despesas,45199.29,45433.61
+2025-06-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1248293.87,1271694.36
+2025-06-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1401177.95,1533839.47
+2025-06-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,217961.01,251455.22
+2025-06-01,1003,Centro Cirúrgico,Assistencial,Manutenção,124549.15,127227.32
+2025-06-01,1003,Centro Cirúrgico,Assistencial,Utilidades,93411.86,95810.46
+2025-06-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,93411.86,96126.19
+2025-06-01,1004,Pronto-Socorro,Assistencial,Pessoal,1046956.15,1060580.51
+2025-06-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,572524.32,622967.04
+2025-06-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,152673.15,168309.28
+2025-06-01,1004,Pronto-Socorro,Assistencial,Manutenção,76336.58,80801.49
+2025-06-01,1004,Pronto-Socorro,Assistencial,Utilidades,57252.43,60659.82
+2025-06-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,57252.43,63340.26
+2025-06-01,1005,Internação Clínica,Assistencial,Pessoal,1102059.1,1089478.16
+2025-06-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,602657.18,693052.54
+2025-06-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,160708.58,192139.07
+2025-06-01,1005,Internação Clínica,Assistencial,Manutenção,80354.29,81526.0
+2025-06-01,1005,Internação Clínica,Assistencial,Utilidades,60265.72,63405.51
+2025-06-01,1005,Internação Clínica,Assistencial,Outras Despesas,60265.72,61895.58
+2025-06-01,1006,Maternidade,Assistencial,Pessoal,661235.46,716681.62
+2025-06-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,361594.31,439938.73
+2025-06-01,1006,Maternidade,Assistencial,Serviços Terceirizados,96425.15,111588.58
+2025-06-01,1006,Maternidade,Assistencial,Manutenção,48212.57,47859.02
+2025-06-01,1006,Maternidade,Assistencial,Utilidades,36159.43,38553.34
+2025-06-01,1006,Maternidade,Assistencial,Outras Despesas,36159.43,38038.04
+2025-06-01,1007,Hemodinâmica,Assistencial,Pessoal,606132.51,642698.96
+2025-06-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,331461.45,379227.46
+2025-06-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,88389.72,103881.23
+2025-06-01,1007,Hemodinâmica,Assistencial,Manutenção,44194.86,44166.77
+2025-06-01,1007,Hemodinâmica,Assistencial,Utilidades,33146.15,30112.15
+2025-06-01,1007,Hemodinâmica,Assistencial,Outras Despesas,33146.15,35009.3
+2025-06-01,2001,Laboratório,Apoio,Pessoal,381482.0,393466.49
+2025-06-01,2001,Laboratório,Apoio,Materiais e Medicamentos,271195.73,329864.54
+2025-06-01,2001,Laboratório,Apoio,Serviços Terceirizados,135597.87,151705.83
+2025-06-01,2001,Laboratório,Apoio,Manutenção,54239.15,59737.64
+2025-06-01,2001,Laboratório,Apoio,Utilidades,45199.29,44831.0
+2025-06-01,2001,Laboratório,Apoio,Outras Despesas,36159.43,37131.49
+2025-06-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,482150.86,508715.35
+2025-06-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,261151.45,296681.15
+2025-06-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,195863.58,219771.76
+2025-06-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,261151.45,270884.6
+2025-06-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,65287.86,65233.76
+2025-06-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,65287.86,69035.66
+2025-06-01,2003,Farmácia,Apoio,Pessoal,222531.16,234885.0
+2025-06-01,2003,Farmácia,Apoio,Materiais e Medicamentos,386705.03,398162.63
+2025-06-01,2003,Farmácia,Apoio,Serviços Terceirizados,35155.0,38827.28
+2025-06-01,2003,Farmácia,Apoio,Manutenção,21093.0,22284.87
+2025-06-01,2003,Farmácia,Apoio,Utilidades,21093.0,20735.7
+2025-06-01,2003,Farmácia,Apoio,Outras Despesas,28124.0,28769.44
+2025-06-01,2004,Nutrição e Dietética,Apoio,Pessoal,241075.43,266001.12
+2025-06-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,293795.38,354098.9
+2025-06-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,52230.29,61854.91
+2025-06-01,2004,Nutrição e Dietética,Apoio,Manutenção,26115.14,27222.17
+2025-06-01,2004,Nutrição e Dietética,Apoio,Utilidades,32643.93,34170.04
+2025-06-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,19586.36,20860.16
+2025-06-01,2005,Lavanderia,Apoio,Pessoal,148354.11,148700.51
+2025-06-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,105465.01,123326.8
+2025-06-01,2005,Lavanderia,Apoio,Serviços Terceirizados,52732.5,60188.84
+2025-06-01,2005,Lavanderia,Apoio,Manutenção,21093.0,22404.91
+2025-06-01,2005,Lavanderia,Apoio,Utilidades,17577.5,18531.76
+2025-06-01,2005,Lavanderia,Apoio,Outras Despesas,14062.0,13867.66
+2025-06-01,3001,Administração Geral,Administrativo,Pessoal,529836.11,506818.41
+2025-06-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,50221.43,57471.5
+2025-06-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,251107.16,287636.63
+2025-06-01,3001,Administração Geral,Administrativo,Manutenção,80354.29,81948.8
+2025-06-01,3001,Administração Geral,Administrativo,Utilidades,60265.72,63246.39
+2025-06-01,3001,Administração Geral,Administrativo,Outras Despesas,60265.72,63155.91
+2025-06-01,3002,TI,Administrativo,Pessoal,254321.33,242729.84
+2025-06-01,3002,TI,Administrativo,Materiais e Medicamentos,24106.29,27504.71
+2025-06-01,3002,TI,Administrativo,Serviços Terceirizados,120531.44,119560.72
+2025-06-01,3002,TI,Administrativo,Manutenção,38570.06,39741.5
+2025-06-01,3002,TI,Administrativo,Utilidades,28927.54,31658.42
+2025-06-01,3002,TI,Administrativo,Outras Despesas,28927.54,29305.27
+2025-06-01,3003,Manutenção Predial,Administrativo,Pessoal,275514.78,281517.8
+2025-06-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,26115.14,31452.09
+2025-06-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,130575.72,148179.29
+2025-06-01,3003,Manutenção Predial,Administrativo,Manutenção,41784.23,44703.75
+2025-06-01,3003,Manutenção Predial,Administrativo,Utilidades,31338.17,33019.35
+2025-06-01,3003,Manutenção Predial,Administrativo,Outras Despesas,31338.17,32745.65
+2025-07-01,1001,UTI Adulto,Assistencial,Pessoal,1331728.22,1325730.04
+2025-07-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,728250.94,823692.42
+2025-07-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,194200.25,207135.02
+2025-07-01,1001,UTI Adulto,Assistencial,Manutenção,97100.13,95814.85
+2025-07-01,1001,UTI Adulto,Assistencial,Utilidades,72825.09,75098.67
+2025-07-01,1001,UTI Adulto,Assistencial,Outras Despesas,72825.09,73601.7
+2025-07-01,1002,UTI Neonatal,Assistencial,Pessoal,832330.14,866551.99
+2025-07-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,455156.84,527255.28
+2025-07-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,121375.16,137389.4
+2025-07-01,1002,UTI Neonatal,Assistencial,Manutenção,60687.58,62739.3
+2025-07-01,1002,UTI Neonatal,Assistencial,Utilidades,45515.68,46484.28
+2025-07-01,1002,UTI Neonatal,Assistencial,Outras Despesas,45515.68,44888.9
+2025-07-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1257031.93,1283352.36
+2025-07-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1410986.2,1596657.52
+2025-07-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,219486.74,257294.61
+2025-07-01,1003,Centro Cirúrgico,Assistencial,Manutenção,125421.0,121626.84
+2025-07-01,1003,Centro Cirúrgico,Assistencial,Utilidades,94065.75,102197.15
+2025-07-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,94065.75,98670.28
+2025-07-01,1004,Pronto-Socorro,Assistencial,Pessoal,1054284.84,1101651.48
+2025-07-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,576531.99,659942.37
+2025-07-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,153741.87,176315.16
+2025-07-01,1004,Pronto-Socorro,Assistencial,Manutenção,76870.93,74419.47
+2025-07-01,1004,Pronto-Socorro,Assistencial,Utilidades,57653.2,59479.41
+2025-07-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,57653.2,57767.38
+2025-07-01,1005,Internação Clínica,Assistencial,Pessoal,1109773.52,1116957.56
+2025-07-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,606875.78,737930.81
+2025-07-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,161833.54,199355.76
+2025-07-01,1005,Internação Clínica,Assistencial,Manutenção,80916.77,87137.36
+2025-07-01,1005,Internação Clínica,Assistencial,Utilidades,60687.58,66467.12
+2025-07-01,1005,Internação Clínica,Assistencial,Outras Despesas,60687.58,64549.87
+2025-07-01,1006,Maternidade,Assistencial,Pessoal,665864.11,656557.72
+2025-07-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,364125.47,386879.79
+2025-07-01,1006,Maternidade,Assistencial,Serviços Terceirizados,97100.13,111841.95
+2025-07-01,1006,Maternidade,Assistencial,Manutenção,48550.06,53561.75
+2025-07-01,1006,Maternidade,Assistencial,Utilidades,36412.55,35680.67
+2025-07-01,1006,Maternidade,Assistencial,Outras Despesas,36412.55,37517.73
+2025-07-01,1007,Hemodinâmica,Assistencial,Pessoal,610375.43,633828.16
+2025-07-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,333781.68,376235.89
+2025-07-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,89008.45,106159.97
+2025-07-01,1007,Hemodinâmica,Assistencial,Manutenção,44504.22,44506.63
+2025-07-01,1007,Hemodinâmica,Assistencial,Utilidades,33378.17,34012.87
+2025-07-01,1007,Hemodinâmica,Assistencial,Outras Despesas,33378.17,36595.58
+2025-07-01,2001,Laboratório,Apoio,Pessoal,384152.37,369920.07
+2025-07-01,2001,Laboratório,Apoio,Materiais e Medicamentos,273094.1,304185.51
+2025-07-01,2001,Laboratório,Apoio,Serviços Terceirizados,136547.05,149569.83
+2025-07-01,2001,Laboratório,Apoio,Manutenção,54618.82,57055.54
+2025-07-01,2001,Laboratório,Apoio,Utilidades,45515.68,47901.72
+2025-07-01,2001,Laboratório,Apoio,Outras Despesas,36412.55,37396.46
+2025-07-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,485525.91,445171.85
+2025-07-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,262979.51,306883.73
+2025-07-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,197234.63,235255.13
+2025-07-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,262979.51,278700.81
+2025-07-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,65744.88,69991.35
+2025-07-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,65744.88,69255.17
+2025-07-01,2003,Farmácia,Apoio,Pessoal,224088.88,235069.84
+2025-07-01,2003,Farmácia,Apoio,Materiais e Medicamentos,389411.96,446975.79
+2025-07-01,2003,Farmácia,Apoio,Serviços Terceirizados,35401.09,40462.46
+2025-07-01,2003,Farmácia,Apoio,Manutenção,21240.65,20232.92
+2025-07-01,2003,Farmácia,Apoio,Utilidades,21240.65,20425.51
+2025-07-01,2003,Farmácia,Apoio,Outras Despesas,28320.87,28724.69
+2025-07-01,2004,Nutrição e Dietética,Apoio,Pessoal,242762.96,238115.13
+2025-07-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,295851.94,350783.67
+2025-07-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,52595.9,60911.95
+2025-07-01,2004,Nutrição e Dietética,Apoio,Manutenção,26297.95,26539.5
+2025-07-01,2004,Nutrição e Dietética,Apoio,Utilidades,32872.44,30809.21
+2025-07-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,19723.46,19493.69
+2025-07-01,2005,Lavanderia,Apoio,Pessoal,149392.59,145736.87
+2025-07-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,106203.26,120782.99
+2025-07-01,2005,Lavanderia,Apoio,Serviços Terceirizados,53101.63,60898.86
+2025-07-01,2005,Lavanderia,Apoio,Manutenção,21240.65,20885.93
+2025-07-01,2005,Lavanderia,Apoio,Utilidades,17700.54,17891.46
+2025-07-01,2005,Lavanderia,Apoio,Outras Despesas,14160.43,14717.62
+2025-07-01,3001,Administração Geral,Administrativo,Pessoal,533544.96,554705.34
+2025-07-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,50572.98,56272.66
+2025-07-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,252864.91,273316.6
+2025-07-01,3001,Administração Geral,Administrativo,Manutenção,80916.77,88595.16
+2025-07-01,3001,Administração Geral,Administrativo,Utilidades,60687.58,64081.47
+2025-07-01,3001,Administração Geral,Administrativo,Outras Despesas,60687.58,69218.5
+2025-07-01,3002,TI,Administrativo,Pessoal,256101.58,275118.74
+2025-07-01,3002,TI,Administrativo,Materiais e Medicamentos,24275.03,25416.03
+2025-07-01,3002,TI,Administrativo,Serviços Terceirizados,121375.16,118000.07
+2025-07-01,3002,TI,Administrativo,Manutenção,38840.05,40361.6
+2025-07-01,3002,TI,Administrativo,Utilidades,29130.04,29200.98
+2025-07-01,3002,TI,Administrativo,Outras Despesas,29130.04,28878.88
+2025-07-01,3003,Manutenção Predial,Administrativo,Pessoal,277443.38,298961.6
+2025-07-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,26297.95,30025.38
+2025-07-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,131489.75,142372.57
+2025-07-01,3003,Manutenção Predial,Administrativo,Manutenção,42076.72,42020.52
+2025-07-01,3003,Manutenção Predial,Administrativo,Utilidades,31557.54,29541.11
+2025-07-01,3003,Manutenção Predial,Administrativo,Outras Despesas,31557.54,28858.7
+2025-08-01,1001,UTI Adulto,Assistencial,Pessoal,1341050.32,1406302.87
+2025-08-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,733348.7,791528.15
+2025-08-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,195559.65,204208.31
+2025-08-01,1001,UTI Adulto,Assistencial,Manutenção,97779.83,98330.49
+2025-08-01,1001,UTI Adulto,Assistencial,Utilidades,73334.87,78282.97
+2025-08-01,1001,UTI Adulto,Assistencial,Outras Despesas,73334.87,76508.72
+2025-08-01,1002,UTI Neonatal,Assistencial,Pessoal,838156.45,809731.04
+2025-08-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,458342.94,482175.29
+2025-08-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,122224.78,129776.99
+2025-08-01,1002,UTI Neonatal,Assistencial,Manutenção,61112.39,62261.69
+2025-08-01,1002,UTI Neonatal,Assistencial,Utilidades,45834.29,48756.42
+2025-08-01,1002,UTI Neonatal,Assistencial,Outras Despesas,45834.29,50703.95
+2025-08-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1265831.15,1345905.66
+2025-08-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1420863.1,1595416.73
+2025-08-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,221023.15,243560.62
+2025-08-01,1003,Centro Cirúrgico,Assistencial,Manutenção,126298.94,125717.28
+2025-08-01,1003,Centro Cirúrgico,Assistencial,Utilidades,94724.21,98863.13
+2025-08-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,94724.21,96697.57
+2025-08-01,1004,Pronto-Socorro,Assistencial,Pessoal,1061664.83,1115786.01
+2025-08-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,580567.72,604539.43
+2025-08-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,154818.06,172359.72
+2025-08-01,1004,Pronto-Socorro,Assistencial,Manutenção,77409.03,82226.49
+2025-08-01,1004,Pronto-Socorro,Assistencial,Utilidades,58056.77,61736.57
+2025-08-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,58056.77,59283.07
+2025-08-01,1005,Internação Clínica,Assistencial,Pessoal,1117541.93,1191855.6
+2025-08-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,611123.91,649788.79
+2025-08-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,162966.38,179482.38
+2025-08-01,1005,Internação Clínica,Assistencial,Manutenção,81483.19,84503.65
+2025-08-01,1005,Internação Clínica,Assistencial,Utilidades,61112.39,61765.07
+2025-08-01,1005,Internação Clínica,Assistencial,Outras Despesas,61112.39,61501.22
+2025-08-01,1006,Maternidade,Assistencial,Pessoal,670525.16,720291.57
+2025-08-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,366674.35,361848.05
+2025-08-01,1006,Maternidade,Assistencial,Serviços Terceirizados,97779.83,97133.3
+2025-08-01,1006,Maternidade,Assistencial,Manutenção,48889.91,51077.41
+2025-08-01,1006,Maternidade,Assistencial,Utilidades,36667.43,35956.61
+2025-08-01,1006,Maternidade,Assistencial,Outras Despesas,36667.43,40691.81
+2025-08-01,1007,Hemodinâmica,Assistencial,Pessoal,614648.06,619281.06
+2025-08-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,336118.15,330363.77
+2025-08-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,89631.51,96999.05
+2025-08-01,1007,Hemodinâmica,Assistencial,Manutenção,44815.75,43885.32
+2025-08-01,1007,Hemodinâmica,Assistencial,Utilidades,33611.82,32735.95
+2025-08-01,1007,Hemodinâmica,Assistencial,Outras Despesas,33611.82,34189.72
+2025-08-01,2001,Laboratório,Apoio,Pessoal,386841.44,399022.83
+2025-08-01,2001,Laboratório,Apoio,Materiais e Medicamentos,275005.76,269808.53
+2025-08-01,2001,Laboratório,Apoio,Serviços Terceirizados,137502.88,143509.47
+2025-08-01,2001,Laboratório,Apoio,Manutenção,55001.15,51474.12
+2025-08-01,2001,Laboratório,Apoio,Utilidades,45834.29,44811.12
+2025-08-01,2001,Laboratório,Apoio,Outras Despesas,36667.43,37221.12
+2025-08-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,488924.59,513384.72
+2025-08-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,264820.36,291293.56
+2025-08-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,198615.27,202907.35
+2025-08-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,264820.36,269435.74
+2025-08-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,66205.09,67559.24
+2025-08-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,66205.09,67184.25
+2025-08-01,2003,Farmácia,Apoio,Pessoal,225657.51,225796.78
+2025-08-01,2003,Farmácia,Apoio,Materiais e Medicamentos,392137.84,433864.62
+2025-08-01,2003,Farmácia,Apoio,Serviços Terceirizados,35648.89,35541.47
+2025-08-01,2003,Farmácia,Apoio,Manutenção,21389.34,22413.7
+2025-08-01,2003,Farmácia,Apoio,Utilidades,21389.34,22474.17
+2025-08-01,2003,Farmácia,Apoio,Outras Despesas,28519.12,30743.44
+2025-08-01,2004,Nutrição e Dietética,Apoio,Pessoal,244462.3,259858.8
+2025-08-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,297922.91,313833.76
+2025-08-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,52964.07,58533.27
+2025-08-01,2004,Nutrição e Dietética,Apoio,Manutenção,26482.04,26894.5
+2025-08-01,2004,Nutrição e Dietética,Apoio,Utilidades,33102.55,36578.72
+2025-08-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,19861.53,19973.04
+2025-08-01,2005,Lavanderia,Apoio,Pessoal,150438.34,153178.57
+2025-08-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,106946.68,119701.21
+2025-08-01,2005,Lavanderia,Apoio,Serviços Terceirizados,53473.34,55633.09
+2025-08-01,2005,Lavanderia,Apoio,Manutenção,21389.34,23792.88
+2025-08-01,2005,Lavanderia,Apoio,Utilidades,17824.45,18217.45
+2025-08-01,2005,Lavanderia,Apoio,Outras Despesas,14259.56,14343.35
+2025-08-01,3001,Administração Geral,Administrativo,Pessoal,537279.77,569843.03
+2025-08-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,50926.99,50250.67
+2025-08-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,254634.96,278403.31
+2025-08-01,3001,Administração Geral,Administrativo,Manutenção,81483.19,84671.29
+2025-08-01,3001,Administração Geral,Administrativo,Utilidades,61112.39,65074.61
+2025-08-01,3001,Administração Geral,Administrativo,Outras Despesas,61112.39,66511.42
+2025-08-01,3002,TI,Administrativo,Pessoal,257894.29,273163.06
+2025-08-01,3002,TI,Administrativo,Materiais e Medicamentos,24444.96,23324.59
+2025-08-01,3002,TI,Administrativo,Serviços Terceirizados,122224.78,117014.05
+2025-08-01,3002,TI,Administrativo,Manutenção,39111.93,41380.29
+2025-08-01,3002,TI,Administrativo,Utilidades,29333.95,30636.93
+2025-08-01,3002,TI,Administrativo,Outras Despesas,29333.95,32352.2
+2025-08-01,3003,Manutenção Predial,Administrativo,Pessoal,279385.48,284565.54
+2025-08-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,26482.04,24047.26
+2025-08-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,132410.18,129486.71
+2025-08-01,3003,Manutenção Predial,Administrativo,Manutenção,42371.26,42583.81
+2025-08-01,3003,Manutenção Predial,Administrativo,Utilidades,31778.44,31726.95
+2025-08-01,3003,Manutenção Predial,Administrativo,Outras Despesas,31778.44,34260.95
+2025-09-01,1001,UTI Adulto,Assistencial,Pessoal,1350437.67,1298815.19
+2025-09-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,738482.14,802372.04
+2025-09-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,196928.57,204204.82
+2025-09-01,1001,UTI Adulto,Assistencial,Manutenção,98464.29,103401.21
+2025-09-01,1001,UTI Adulto,Assistencial,Utilidades,73848.21,77874.36
+2025-09-01,1001,UTI Adulto,Assistencial,Outras Despesas,73848.21,75094.13
+2025-09-01,1002,UTI Neonatal,Assistencial,Pessoal,844023.54,887132.55
+2025-09-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,461551.34,478939.67
+2025-09-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,123080.36,124521.9
+2025-09-01,1002,UTI Neonatal,Assistencial,Manutenção,61540.18,62835.35
+2025-09-01,1002,UTI Neonatal,Assistencial,Utilidades,46155.13,46138.26
+2025-09-01,1002,UTI Neonatal,Assistencial,Outras Despesas,46155.13,51012.16
+2025-09-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1274691.97,1382793.42
+2025-09-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1430809.14,1574005.1
+2025-09-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,222570.31,242515.82
+2025-09-01,1003,Centro Cirúrgico,Assistencial,Manutenção,127183.03,132567.56
+2025-09-01,1003,Centro Cirúrgico,Assistencial,Utilidades,95387.28,101020.21
+2025-09-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,95387.28,100008.26
+2025-09-01,1004,Pronto-Socorro,Assistencial,Pessoal,1069096.49,1101767.7
+2025-09-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,584631.69,591845.82
+2025-09-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,155901.78,158212.12
+2025-09-01,1004,Pronto-Socorro,Assistencial,Manutenção,77950.89,79040.45
+2025-09-01,1004,Pronto-Socorro,Assistencial,Utilidades,58463.17,59114.05
+2025-09-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,58463.17,54759.82
+2025-09-01,1005,Internação Clínica,Assistencial,Pessoal,1125364.72,1102455.5
+2025-09-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,615401.78,655934.5
+2025-09-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,164107.14,164733.51
+2025-09-01,1005,Internação Clínica,Assistencial,Manutenção,82053.57,92549.62
+2025-09-01,1005,Internação Clínica,Assistencial,Utilidades,61540.18,64056.4
+2025-09-01,1005,Internação Clínica,Assistencial,Outras Despesas,61540.18,62028.12
+2025-09-01,1006,Maternidade,Assistencial,Pessoal,675218.83,730743.96
+2025-09-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,369241.07,377436.23
+2025-09-01,1006,Maternidade,Assistencial,Serviços Terceirizados,98464.29,110126.57
+2025-09-01,1006,Maternidade,Assistencial,Manutenção,49232.14,54298.72
+2025-09-01,1006,Maternidade,Assistencial,Utilidades,36924.11,39665.55
+2025-09-01,1006,Maternidade,Assistencial,Outras Despesas,36924.11,36371.19
+2025-09-01,1007,Hemodinâmica,Assistencial,Pessoal,618950.6,606036.29
+2025-09-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,338470.98,340001.66
+2025-09-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,90258.93,90418.49
+2025-09-01,1007,Hemodinâmica,Assistencial,Manutenção,45129.46,45443.27
+2025-09-01,1007,Hemodinâmica,Assistencial,Utilidades,33847.1,35432.37
+2025-09-01,1007,Hemodinâmica,Assistencial,Outras Despesas,33847.1,33430.94
+2025-09-01,2001,Laboratório,Apoio,Pessoal,389549.33,386511.5
+2025-09-01,2001,Laboratório,Apoio,Materiais e Medicamentos,276930.8,323258.84
+2025-09-01,2001,Laboratório,Apoio,Serviços Terceirizados,138465.4,154236.23
+2025-09-01,2001,Laboratório,Apoio,Manutenção,55386.16,57785.78
+2025-09-01,2001,Laboratório,Apoio,Utilidades,46155.13,49217.8
+2025-09-01,2001,Laboratório,Apoio,Outras Despesas,36924.11,38851.15
+2025-09-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,492347.07,496307.37
+2025-09-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,266674.11,277135.79
+2025-09-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,200005.58,203005.59
+2025-09-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,266674.11,266547.44
+2025-09-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,66668.53,68378.0
+2025-09-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,66668.53,69349.87
+2025-09-01,2003,Farmácia,Apoio,Pessoal,227237.11,243793.41
+2025-09-01,2003,Farmácia,Apoio,Materiais e Medicamentos,394882.81,404947.83
+2025-09-01,2003,Farmácia,Apoio,Serviços Terceirizados,35898.44,36048.35
+2025-09-01,2003,Farmácia,Apoio,Manutenção,21539.06,20522.14
+2025-09-01,2003,Farmácia,Apoio,Utilidades,21539.06,23890.75
+2025-09-01,2003,Farmácia,Apoio,Outras Despesas,28718.75,29717.21
+2025-09-01,2004,Nutrição e Dietética,Apoio,Pessoal,246173.53,237031.9
+2025-09-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,300008.37,293569.45
+2025-09-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,53334.82,56294.22
+2025-09-01,2004,Nutrição e Dietética,Apoio,Manutenção,26667.41,28557.42
+2025-09-01,2004,Nutrição e Dietética,Apoio,Utilidades,33334.26,31604.72
+2025-09-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,20000.56,18050.79
+2025-09-01,2005,Lavanderia,Apoio,Pessoal,151491.41,153030.4
+2025-09-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,107695.31,114762.02
+2025-09-01,2005,Lavanderia,Apoio,Serviços Terceirizados,53847.66,57636.89
+2025-09-01,2005,Lavanderia,Apoio,Manutenção,21539.06,20294.06
+2025-09-01,2005,Lavanderia,Apoio,Utilidades,17949.22,19061.3
+2025-09-01,2005,Lavanderia,Apoio,Outras Despesas,14359.37,15425.15
+2025-09-01,3001,Administração Geral,Administrativo,Pessoal,541040.73,552674.09
+2025-09-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,51283.48,52459.33
+2025-09-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,256417.41,238178.82
+2025-09-01,3001,Administração Geral,Administrativo,Manutenção,82053.57,88243.35
+2025-09-01,3001,Administração Geral,Administrativo,Utilidades,61540.18,65197.79
+2025-09-01,3001,Administração Geral,Administrativo,Outras Despesas,61540.18,63352.4
+2025-09-01,3002,TI,Administrativo,Pessoal,259699.55,248108.37
+2025-09-01,3002,TI,Administrativo,Materiais e Medicamentos,24616.07,25568.68
+2025-09-01,3002,TI,Administrativo,Serviços Terceirizados,123080.36,127097.43
+2025-09-01,3002,TI,Administrativo,Manutenção,39385.71,38324.52
+2025-09-01,3002,TI,Administrativo,Utilidades,29539.29,29415.01
+2025-09-01,3002,TI,Administrativo,Outras Despesas,29539.29,28641.84
+2025-09-01,3003,Manutenção Predial,Administrativo,Pessoal,281341.18,295202.02
+2025-09-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,26667.41,27796.46
+2025-09-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,133337.05,133985.19
+2025-09-01,3003,Manutenção Predial,Administrativo,Manutenção,42667.86,43926.86
+2025-09-01,3003,Manutenção Predial,Administrativo,Utilidades,32000.89,31107.19
+2025-09-01,3003,Manutenção Predial,Administrativo,Outras Despesas,32000.89,31694.94
+2025-10-01,1001,UTI Adulto,Assistencial,Pessoal,1359890.73,1443882.21
+2025-10-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,743651.51,669385.46
+2025-10-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,198307.07,190413.07
+2025-10-01,1001,UTI Adulto,Assistencial,Manutenção,99153.54,103141.22
+2025-10-01,1001,UTI Adulto,Assistencial,Utilidades,74365.15,72258.19
+2025-10-01,1001,UTI Adulto,Assistencial,Outras Despesas,74365.15,75231.56
+2025-10-01,1002,UTI Neonatal,Assistencial,Pessoal,849931.71,920623.19
+2025-10-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,464782.2,428720.59
+2025-10-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,123941.92,117466.37
+2025-10-01,1002,UTI Neonatal,Assistencial,Manutenção,61970.96,62864.16
+2025-10-01,1002,UTI Neonatal,Assistencial,Utilidades,46478.22,42456.14
+2025-10-01,1002,UTI Neonatal,Assistencial,Outras Despesas,46478.22,46692.43
+2025-10-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1283614.81,1285424.1
+2025-10-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1440824.81,1333653.42
+2025-10-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,224128.3,216640.45
+2025-10-01,1003,Centro Cirúrgico,Assistencial,Manutenção,128073.32,134465.82
+2025-10-01,1003,Centro Cirúrgico,Assistencial,Utilidades,96054.99,105374.53
+2025-10-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,96054.99,97144.58
+2025-10-01,1004,Pronto-Socorro,Assistencial,Pessoal,1076580.16,1072064.98
+2025-10-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,588724.11,639394.95
+2025-10-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,156993.1,165158.71
+2025-10-01,1004,Pronto-Socorro,Assistencial,Manutenção,78496.55,80402.75
+2025-10-01,1004,Pronto-Socorro,Assistencial,Utilidades,58872.41,60964.31
+2025-10-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,58872.41,60309.14
+2025-10-01,1005,Internação Clínica,Assistencial,Pessoal,1133242.28,1309712.62
+2025-10-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,619709.59,561788.15
+2025-10-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,165255.89,162939.56
+2025-10-01,1005,Internação Clínica,Assistencial,Manutenção,82627.95,86022.95
+2025-10-01,1005,Internação Clínica,Assistencial,Utilidades,61970.96,65764.5
+2025-10-01,1005,Internação Clínica,Assistencial,Outras Despesas,61970.96,65440.97
+2025-10-01,1006,Maternidade,Assistencial,Pessoal,679945.37,727495.91
+2025-10-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,371825.76,357966.06
+2025-10-01,1006,Maternidade,Assistencial,Serviços Terceirizados,99153.54,87281.98
+2025-10-01,1006,Maternidade,Assistencial,Manutenção,49576.77,50713.53
+2025-10-01,1006,Maternidade,Assistencial,Utilidades,37182.58,38709.17
+2025-10-01,1006,Maternidade,Assistencial,Outras Despesas,37182.58,36252.95
+2025-10-01,1007,Hemodinâmica,Assistencial,Pessoal,623283.25,603454.64
+2025-10-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,340840.28,345482.34
+2025-10-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,90890.74,81891.58
+2025-10-01,1007,Hemodinâmica,Assistencial,Manutenção,45445.37,44525.24
+2025-10-01,1007,Hemodinâmica,Assistencial,Utilidades,34084.03,34972.1
+2025-10-01,1007,Hemodinâmica,Assistencial,Outras Despesas,34084.03,35474.58
+2025-10-01,2001,Laboratório,Apoio,Pessoal,392276.17,420334.71
+2025-10-01,2001,Laboratório,Apoio,Materiais e Medicamentos,278869.32,268881.55
+2025-10-01,2001,Laboratório,Apoio,Serviços Terceirizados,139434.66,135231.5
+2025-10-01,2001,Laboratório,Apoio,Manutenção,55773.86,56942.93
+2025-10-01,2001,Laboratório,Apoio,Utilidades,46478.22,47969.65
+2025-10-01,2001,Laboratório,Apoio,Outras Despesas,37182.58,41928.91
+2025-10-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,495793.5,548706.86
+2025-10-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,268540.82,258899.6
+2025-10-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,201405.62,201306.38
+2025-10-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,268540.82,279634.1
+2025-10-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,67135.21,68187.22
+2025-10-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,67135.21,67845.86
+2025-10-01,2003,Farmácia,Apoio,Pessoal,228827.77,238811.71
+2025-10-01,2003,Farmácia,Apoio,Materiais e Medicamentos,397646.99,398101.64
+2025-10-01,2003,Farmácia,Apoio,Serviços Terceirizados,36149.73,34679.72
+2025-10-01,2003,Farmácia,Apoio,Manutenção,21689.84,20950.01
+2025-10-01,2003,Farmácia,Apoio,Utilidades,21689.84,21537.48
+2025-10-01,2003,Farmácia,Apoio,Outras Despesas,28919.78,29582.84
+2025-10-01,2004,Nutrição e Dietética,Apoio,Pessoal,247896.75,255710.66
+2025-10-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,302108.43,304367.45
+2025-10-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,53708.16,56253.26
+2025-10-01,2004,Nutrição e Dietética,Apoio,Manutenção,26854.08,25762.21
+2025-10-01,2004,Nutrição e Dietética,Apoio,Utilidades,33567.6,33158.58
+2025-10-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,20140.56,20680.39
+2025-10-01,2005,Lavanderia,Apoio,Pessoal,152551.85,151743.82
+2025-10-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,108449.18,107127.39
+2025-10-01,2005,Lavanderia,Apoio,Serviços Terceirizados,54224.59,50815.54
+2025-10-01,2005,Lavanderia,Apoio,Manutenção,21689.84,22296.97
+2025-10-01,2005,Lavanderia,Apoio,Utilidades,18074.86,18132.99
+2025-10-01,2005,Lavanderia,Apoio,Outras Despesas,14459.89,15049.05
+2025-10-01,3001,Administração Geral,Administrativo,Pessoal,544828.02,566172.24
+2025-10-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,51642.47,50563.0
+2025-10-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,258212.33,235791.49
+2025-10-01,3001,Administração Geral,Administrativo,Manutenção,82627.95,85547.44
+2025-10-01,3001,Administração Geral,Administrativo,Utilidades,61970.96,63169.54
+2025-10-01,3001,Administração Geral,Administrativo,Outras Despesas,61970.96,61972.83
+2025-10-01,3002,TI,Administrativo,Pessoal,261517.45,274691.02
+2025-10-01,3002,TI,Administrativo,Materiais e Medicamentos,24788.38,23724.88
+2025-10-01,3002,TI,Administrativo,Serviços Terceirizados,123941.92,114897.88
+2025-10-01,3002,TI,Administrativo,Manutenção,39661.41,43869.67
+2025-10-01,3002,TI,Administrativo,Utilidades,29746.06,29562.58
+2025-10-01,3002,TI,Administrativo,Outras Despesas,29746.06,30481.7
+2025-10-01,3003,Manutenção Predial,Administrativo,Pessoal,283310.57,291063.2
+2025-10-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,26854.08,26499.2
+2025-10-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,134270.41,126126.35
+2025-10-01,3003,Manutenção Predial,Administrativo,Manutenção,42966.53,45472.4
+2025-10-01,3003,Manutenção Predial,Administrativo,Utilidades,32224.9,32271.07
+2025-10-01,3003,Manutenção Predial,Administrativo,Outras Despesas,32224.9,32925.28
+2025-11-01,1001,UTI Adulto,Assistencial,Pessoal,1369409.97,1470113.79
+2025-11-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,748857.07,679634.45
+2025-11-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,199695.22,195942.19
+2025-11-01,1001,UTI Adulto,Assistencial,Manutenção,99847.61,99370.33
+2025-11-01,1001,UTI Adulto,Assistencial,Utilidades,74885.71,76015.43
+2025-11-01,1001,UTI Adulto,Assistencial,Outras Despesas,74885.71,75814.24
+2025-11-01,1002,UTI Neonatal,Assistencial,Pessoal,855881.23,911389.83
+2025-11-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,468035.67,454775.79
+2025-11-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,124809.51,126244.0
+2025-11-01,1002,UTI Neonatal,Assistencial,Manutenção,62404.76,63802.87
+2025-11-01,1002,UTI Neonatal,Assistencial,Utilidades,46803.57,46054.25
+2025-11-01,1002,UTI Neonatal,Assistencial,Outras Despesas,46803.57,46479.53
+2025-11-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1292600.11,1265723.6
+2025-11-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1450910.58,1404004.3
+2025-11-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,225697.2,203946.8
+2025-11-01,1003,Centro Cirúrgico,Assistencial,Manutenção,128969.83,136010.49
+2025-11-01,1003,Centro Cirúrgico,Assistencial,Utilidades,96727.37,94719.61
+2025-11-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,96727.37,106621.14
+2025-11-01,1004,Pronto-Socorro,Assistencial,Pessoal,1084116.22,1071384.16
+2025-11-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,592845.18,581696.3
+2025-11-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,158092.05,151395.79
+2025-11-01,1004,Pronto-Socorro,Assistencial,Manutenção,79046.02,73819.5
+2025-11-01,1004,Pronto-Socorro,Assistencial,Utilidades,59284.52,61769.18
+2025-11-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,59284.52,64852.11
+2025-11-01,1005,Internação Clínica,Assistencial,Pessoal,1141174.97,1116463.8
+2025-11-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,624047.56,609078.51
+2025-11-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,166412.68,164198.63
+2025-11-01,1005,Internação Clínica,Assistencial,Manutenção,83206.34,79179.23
+2025-11-01,1005,Internação Clínica,Assistencial,Utilidades,62404.76,63149.85
+2025-11-01,1005,Internação Clínica,Assistencial,Outras Despesas,62404.76,62730.73
+2025-11-01,1006,Maternidade,Assistencial,Pessoal,684704.98,701533.69
+2025-11-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,374428.54,356093.8
+2025-11-01,1006,Maternidade,Assistencial,Serviços Terceirizados,99847.61,96839.51
+2025-11-01,1006,Maternidade,Assistencial,Manutenção,49923.8,50865.04
+2025-11-01,1006,Maternidade,Assistencial,Utilidades,37442.85,38625.26
+2025-11-01,1006,Maternidade,Assistencial,Outras Despesas,37442.85,36155.01
+2025-11-01,1007,Hemodinâmica,Assistencial,Pessoal,627646.24,650678.59
+2025-11-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,343226.16,328810.69
+2025-11-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,91526.98,91588.8
+2025-11-01,1007,Hemodinâmica,Assistencial,Manutenção,45763.49,48694.15
+2025-11-01,1007,Hemodinâmica,Assistencial,Utilidades,34322.62,32331.65
+2025-11-01,1007,Hemodinâmica,Assistencial,Outras Despesas,34322.62,37456.88
+2025-11-01,2001,Laboratório,Apoio,Pessoal,395022.11,424719.55
+2025-11-01,2001,Laboratório,Apoio,Materiais e Medicamentos,280821.4,280555.58
+2025-11-01,2001,Laboratório,Apoio,Serviços Terceirizados,140410.7,127770.25
+2025-11-01,2001,Laboratório,Apoio,Manutenção,56164.28,59325.8
+2025-11-01,2001,Laboratório,Apoio,Utilidades,46803.57,46155.59
+2025-11-01,2001,Laboratório,Apoio,Outras Despesas,37442.85,39678.05
+2025-11-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,499264.05,541653.91
+2025-11-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,270420.61,254159.36
+2025-11-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,202815.46,193023.4
+2025-11-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,270420.61,288088.18
+2025-11-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,67605.15,64605.57
+2025-11-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,67605.15,67590.61
+2025-11-01,2003,Farmácia,Apoio,Pessoal,230429.56,233725.17
+2025-11-01,2003,Farmácia,Apoio,Materiais e Medicamentos,400430.52,386410.45
+2025-11-01,2003,Farmácia,Apoio,Serviços Terceirizados,36402.77,34410.79
+2025-11-01,2003,Farmácia,Apoio,Manutenção,21841.66,23143.01
+2025-11-01,2003,Farmácia,Apoio,Utilidades,21841.66,22117.6
+2025-11-01,2003,Farmácia,Apoio,Outras Despesas,29122.22,30930.92
+2025-11-01,2004,Nutrição e Dietética,Apoio,Pessoal,249632.03,248712.94
+2025-11-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,304223.19,297488.07
+2025-11-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,54084.12,52130.51
+2025-11-01,2004,Nutrição e Dietética,Apoio,Manutenção,27042.06,28145.25
+2025-11-01,2004,Nutrição e Dietética,Apoio,Utilidades,33802.58,35622.04
+2025-11-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,20281.55,20963.85
+2025-11-01,2005,Lavanderia,Apoio,Pessoal,153619.71,153140.43
+2025-11-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,109208.32,103400.26
+2025-11-01,2005,Lavanderia,Apoio,Serviços Terceirizados,54604.16,51973.61
+2025-11-01,2005,Lavanderia,Apoio,Manutenção,21841.66,22500.06
+2025-11-01,2005,Lavanderia,Apoio,Utilidades,18201.39,20321.99
+2025-11-01,2005,Lavanderia,Apoio,Outras Despesas,14561.11,15044.01
+2025-11-01,3001,Administração Geral,Administrativo,Pessoal,548641.81,563439.99
+2025-11-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,52003.96,48372.69
+2025-11-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,260019.82,265035.34
+2025-11-01,3001,Administração Geral,Administrativo,Manutenção,83206.34,84989.12
+2025-11-01,3001,Administração Geral,Administrativo,Utilidades,62404.76,64095.0
+2025-11-01,3001,Administração Geral,Administrativo,Outras Despesas,62404.76,63279.68
+2025-11-01,3002,TI,Administrativo,Pessoal,263348.07,259760.62
+2025-11-01,3002,TI,Administrativo,Materiais e Medicamentos,24961.9,22801.46
+2025-11-01,3002,TI,Administrativo,Serviços Terceirizados,124809.51,102821.33
+2025-11-01,3002,TI,Administrativo,Manutenção,39939.04,40693.01
+2025-11-01,3002,TI,Administrativo,Utilidades,29954.28,29701.32
+2025-11-01,3002,TI,Administrativo,Outras Despesas,29954.28,32082.74
+2025-11-01,3003,Manutenção Predial,Administrativo,Pessoal,285293.74,283210.37
+2025-11-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,27042.06,26095.5
+2025-11-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,135210.3,131059.27
+2025-11-01,3003,Manutenção Predial,Administrativo,Manutenção,43267.3,44999.57
+2025-11-01,3003,Manutenção Predial,Administrativo,Utilidades,32450.47,33686.72
+2025-11-01,3003,Manutenção Predial,Administrativo,Outras Despesas,32450.47,29882.79
+2025-12-01,1001,UTI Adulto,Assistencial,Pessoal,1378995.84,1323006.69
+2025-12-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,754099.07,777936.76
+2025-12-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,201093.09,197047.35
+2025-12-01,1001,UTI Adulto,Assistencial,Manutenção,100546.54,96983.19
+2025-12-01,1001,UTI Adulto,Assistencial,Utilidades,75409.91,72983.34
+2025-12-01,1001,UTI Adulto,Assistencial,Outras Despesas,75409.91,78818.55
+2025-12-01,1002,UTI Neonatal,Assistencial,Pessoal,861872.4,903590.65
+2025-12-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,471311.92,456188.8
+2025-12-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,125683.18,110388.66
+2025-12-01,1002,UTI Neonatal,Assistencial,Manutenção,62841.59,62178.37
+2025-12-01,1002,UTI Neonatal,Assistencial,Utilidades,47131.19,46892.38
+2025-12-01,1002,UTI Neonatal,Assistencial,Outras Despesas,47131.19,49649.01
+2025-12-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1301648.31,1259010.62
+2025-12-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1461066.95,1376168.82
+2025-12-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,227277.08,203114.53
+2025-12-01,1003,Centro Cirúrgico,Assistencial,Manutenção,129872.62,127485.95
+2025-12-01,1003,Centro Cirúrgico,Assistencial,Utilidades,97404.46,94762.18
+2025-12-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,97404.46,95610.36
+2025-12-01,1004,Pronto-Socorro,Assistencial,Pessoal,1091705.04,1050737.2
+2025-12-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,596995.1,558281.46
+2025-12-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,159198.69,154031.73
+2025-12-01,1004,Pronto-Socorro,Assistencial,Manutenção,79599.35,83574.17
+2025-12-01,1004,Pronto-Socorro,Assistencial,Utilidades,59699.51,59709.68
+2025-12-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,59699.51,61338.89
+2025-12-01,1005,Internação Clínica,Assistencial,Pessoal,1149163.2,1145808.02
+2025-12-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,628415.89,608315.49
+2025-12-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,167577.57,160692.03
+2025-12-01,1005,Internação Clínica,Assistencial,Manutenção,83788.79,84746.95
+2025-12-01,1005,Internação Clínica,Assistencial,Utilidades,62841.59,64900.31
+2025-12-01,1005,Internação Clínica,Assistencial,Outras Despesas,62841.59,64691.01
+2025-12-01,1006,Maternidade,Assistencial,Pessoal,689497.92,665567.49
+2025-12-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,377049.54,349577.61
+2025-12-01,1006,Maternidade,Assistencial,Serviços Terceirizados,100546.54,98095.14
+2025-12-01,1006,Maternidade,Assistencial,Manutenção,50273.27,52506.66
+2025-12-01,1006,Maternidade,Assistencial,Utilidades,37704.95,38556.05
+2025-12-01,1006,Maternidade,Assistencial,Outras Despesas,37704.95,37508.34
+2025-12-01,1007,Hemodinâmica,Assistencial,Pessoal,632039.76,623359.56
+2025-12-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,345628.74,315454.89
+2025-12-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,92167.66,90160.47
+2025-12-01,1007,Hemodinâmica,Assistencial,Manutenção,46083.83,48285.14
+2025-12-01,1007,Hemodinâmica,Assistencial,Utilidades,34562.87,36238.4
+2025-12-01,1007,Hemodinâmica,Assistencial,Outras Despesas,34562.87,36231.62
+2025-12-01,2001,Laboratório,Apoio,Pessoal,397787.26,415898.6
+2025-12-01,2001,Laboratório,Apoio,Materiais e Medicamentos,282787.15,259674.84
+2025-12-01,2001,Laboratório,Apoio,Serviços Terceirizados,141393.58,135530.53
+2025-12-01,2001,Laboratório,Apoio,Manutenção,56557.43,55284.16
+2025-12-01,2001,Laboratório,Apoio,Utilidades,47131.19,49182.07
+2025-12-01,2001,Laboratório,Apoio,Outras Despesas,37704.95,39951.98
+2025-12-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,502758.9,545247.98
+2025-12-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,272313.55,250854.14
+2025-12-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,204235.17,199838.56
+2025-12-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,272313.55,280846.54
+2025-12-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,68078.39,70994.99
+2025-12-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,68078.39,70662.3
+2025-12-01,2003,Farmácia,Apoio,Pessoal,232042.57,226389.66
+2025-12-01,2003,Farmácia,Apoio,Materiais e Medicamentos,403233.53,365599.33
+2025-12-01,2003,Farmácia,Apoio,Serviços Terceirizados,36657.59,36024.86
+2025-12-01,2003,Farmácia,Apoio,Manutenção,21994.56,21943.89
+2025-12-01,2003,Farmácia,Apoio,Utilidades,21994.56,23634.65
+2025-12-01,2003,Farmácia,Apoio,Outras Despesas,29326.08,30750.15
+2025-12-01,2004,Nutrição e Dietética,Apoio,Pessoal,251379.45,266784.27
+2025-12-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,306352.75,284752.34
+2025-12-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,54462.71,53543.61
+2025-12-01,2004,Nutrição e Dietética,Apoio,Manutenção,27231.36,27946.33
+2025-12-01,2004,Nutrição e Dietética,Apoio,Utilidades,34039.19,36456.71
+2025-12-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,20423.52,20999.33
+2025-12-01,2005,Lavanderia,Apoio,Pessoal,154695.05,160985.13
+2025-12-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,109972.78,102937.14
+2025-12-01,2005,Lavanderia,Apoio,Serviços Terceirizados,54986.39,50692.72
+2025-12-01,2005,Lavanderia,Apoio,Manutenção,21994.56,22936.11
+2025-12-01,2005,Lavanderia,Apoio,Utilidades,18328.8,19365.93
+2025-12-01,2005,Lavanderia,Apoio,Outras Despesas,14663.04,15974.41
+2025-12-01,3001,Administração Geral,Administrativo,Pessoal,552482.31,525141.11
+2025-12-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,52367.99,49846.13
+2025-12-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,261839.96,244372.58
+2025-12-01,3001,Administração Geral,Administrativo,Manutenção,83788.79,90076.53
+2025-12-01,3001,Administração Geral,Administrativo,Utilidades,62841.59,65950.07
+2025-12-01,3001,Administração Geral,Administrativo,Outras Despesas,62841.59,63994.28
+2025-12-01,3002,TI,Administrativo,Pessoal,265191.51,278641.45
+2025-12-01,3002,TI,Administrativo,Materiais e Medicamentos,25136.64,24586.54
+2025-12-01,3002,TI,Administrativo,Serviços Terceirizados,125683.18,115013.59
+2025-12-01,3002,TI,Administrativo,Manutenção,40218.62,37436.4
+2025-12-01,3002,TI,Administrativo,Utilidades,30163.96,31014.88
+2025-12-01,3002,TI,Administrativo,Outras Despesas,30163.96,30428.71
+2025-12-01,3003,Manutenção Predial,Administrativo,Pessoal,287290.8,276163.6
+2025-12-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,27231.36,26540.21
+2025-12-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,136156.78,132598.52
+2025-12-01,3003,Manutenção Predial,Administrativo,Manutenção,43570.17,44372.03
+2025-12-01,3003,Manutenção Predial,Administrativo,Utilidades,32677.63,35205.43
+2025-12-01,3003,Manutenção Predial,Administrativo,Outras Despesas,32677.63,32999.03
+2026-01-01,1001,UTI Adulto,Assistencial,Pessoal,1388648.81,1451258.45
+2026-01-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,759377.77,738491.19
+2026-01-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,202500.74,193216.76
+2026-01-01,1001,UTI Adulto,Assistencial,Manutenção,101250.37,105956.49
+2026-01-01,1001,UTI Adulto,Assistencial,Utilidades,75937.78,81812.8
+2026-01-01,1001,UTI Adulto,Assistencial,Outras Despesas,75937.78,71846.03
+2026-01-01,1002,UTI Neonatal,Assistencial,Pessoal,867905.51,846809.08
+2026-01-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,474611.1,476621.62
+2026-01-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,126562.96,122059.82
+2026-01-01,1002,UTI Neonatal,Assistencial,Manutenção,63281.48,68198.04
+2026-01-01,1002,UTI Neonatal,Assistencial,Utilidades,47461.11,46625.55
+2026-01-01,1002,UTI Neonatal,Assistencial,Outras Despesas,47461.11,49783.56
+2026-01-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1310759.85,1379839.13
+2026-01-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1471294.42,1447759.3
+2026-01-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,228868.02,228051.0
+2026-01-01,1003,Centro Cirúrgico,Assistencial,Manutenção,130781.73,136049.51
+2026-01-01,1003,Centro Cirúrgico,Assistencial,Utilidades,98086.29,104402.94
+2026-01-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,98086.29,97919.22
+2026-01-01,1004,Pronto-Socorro,Assistencial,Pessoal,1099346.97,1232919.2
+2026-01-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,601174.06,569361.14
+2026-01-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,160313.08,157523.72
+2026-01-01,1004,Pronto-Socorro,Assistencial,Manutenção,80156.54,84203.7
+2026-01-01,1004,Pronto-Socorro,Assistencial,Utilidades,60117.41,63151.4
+2026-01-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,60117.41,60291.72
+2026-01-01,1005,Internação Clínica,Assistencial,Pessoal,1157207.34,1222012.37
+2026-01-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,632814.81,647021.53
+2026-01-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,168750.61,163888.97
+2026-01-01,1005,Internação Clínica,Assistencial,Manutenção,84375.31,95554.06
+2026-01-01,1005,Internação Clínica,Assistencial,Utilidades,63281.48,63733.41
+2026-01-01,1005,Internação Clínica,Assistencial,Outras Despesas,63281.48,62139.83
+2026-01-01,1006,Maternidade,Assistencial,Pessoal,694324.4,714753.2
+2026-01-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,379688.88,373677.77
+2026-01-01,1006,Maternidade,Assistencial,Serviços Terceirizados,101250.37,93708.65
+2026-01-01,1006,Maternidade,Assistencial,Manutenção,50625.18,51749.55
+2026-01-01,1006,Maternidade,Assistencial,Utilidades,37968.89,39970.08
+2026-01-01,1006,Maternidade,Assistencial,Outras Despesas,37968.89,39649.55
+2026-01-01,1007,Hemodinâmica,Assistencial,Pessoal,636464.04,678932.3
+2026-01-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,348048.14,339642.6
+2026-01-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,92812.84,90473.77
+2026-01-01,1007,Hemodinâmica,Assistencial,Manutenção,46406.42,54011.51
+2026-01-01,1007,Hemodinâmica,Assistencial,Utilidades,34804.81,33928.24
+2026-01-01,1007,Hemodinâmica,Assistencial,Outras Despesas,34804.81,34344.06
+2026-01-01,2001,Laboratório,Apoio,Pessoal,400571.77,410329.94
+2026-01-01,2001,Laboratório,Apoio,Materiais e Medicamentos,284766.66,273600.02
+2026-01-01,2001,Laboratório,Apoio,Serviços Terceirizados,142383.33,139076.31
+2026-01-01,2001,Laboratório,Apoio,Manutenção,56953.33,60492.89
+2026-01-01,2001,Laboratório,Apoio,Utilidades,47461.11,52615.45
+2026-01-01,2001,Laboratório,Apoio,Outras Despesas,37968.89,36406.87
+2026-01-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,506278.21,519134.81
+2026-01-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,274219.75,246895.46
+2026-01-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,205664.81,203331.29
+2026-01-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,274219.75,292802.22
+2026-01-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,68554.94,66923.83
+2026-01-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,68554.94,71125.25
+2026-01-01,2003,Farmácia,Apoio,Pessoal,233666.87,238716.32
+2026-01-01,2003,Farmácia,Apoio,Materiais e Medicamentos,406056.17,378415.07
+2026-01-01,2003,Farmácia,Apoio,Serviços Terceirizados,36914.2,34779.17
+2026-01-01,2003,Farmácia,Apoio,Manutenção,22148.52,22832.68
+2026-01-01,2003,Farmácia,Apoio,Utilidades,22148.52,23986.19
+2026-01-01,2003,Farmácia,Apoio,Outras Despesas,29531.36,29746.54
+2026-01-01,2004,Nutrição e Dietética,Apoio,Pessoal,253139.11,258685.48
+2026-01-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,308497.22,311690.9
+2026-01-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,54843.95,55806.71
+2026-01-01,2004,Nutrição e Dietética,Apoio,Manutenção,27421.97,30780.28
+2026-01-01,2004,Nutrição e Dietética,Apoio,Utilidades,34277.47,34865.76
+2026-01-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,20566.48,21106.36
+2026-01-01,2005,Lavanderia,Apoio,Pessoal,155777.91,157440.47
+2026-01-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,110742.59,101928.02
+2026-01-01,2005,Lavanderia,Apoio,Serviços Terceirizados,55371.3,52706.93
+2026-01-01,2005,Lavanderia,Apoio,Manutenção,22148.52,21578.63
+2026-01-01,2005,Lavanderia,Apoio,Utilidades,18457.1,19189.44
+2026-01-01,2005,Lavanderia,Apoio,Outras Despesas,14765.68,16643.05
+2026-01-01,3001,Administração Geral,Administrativo,Pessoal,556349.68,553055.22
+2026-01-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,52734.57,48877.06
+2026-01-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,263672.84,273053.83
+2026-01-01,3001,Administração Geral,Administrativo,Manutenção,84375.31,82228.2
+2026-01-01,3001,Administração Geral,Administrativo,Utilidades,63281.48,64913.53
+2026-01-01,3001,Administração Geral,Administrativo,Outras Despesas,63281.48,63536.03
+2026-01-01,3002,TI,Administrativo,Pessoal,267047.85,257026.74
+2026-01-01,3002,TI,Administrativo,Materiais e Medicamentos,25312.59,26324.3
+2026-01-01,3002,TI,Administrativo,Serviços Terceirizados,126562.96,122004.58
+2026-01-01,3002,TI,Administrativo,Manutenção,40500.15,38787.61
+2026-01-01,3002,TI,Administrativo,Utilidades,30375.11,30871.19
+2026-01-01,3002,TI,Administrativo,Outras Despesas,30375.11,30551.94
+2026-01-01,3003,Manutenção Predial,Administrativo,Pessoal,289301.84,273163.33
+2026-01-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,27421.97,27527.61
+2026-01-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,137109.87,126249.15
+2026-01-01,3003,Manutenção Predial,Administrativo,Manutenção,43875.16,45851.55
+2026-01-01,3003,Manutenção Predial,Administrativo,Utilidades,32906.37,35181.92
+2026-01-01,3003,Manutenção Predial,Administrativo,Outras Despesas,32906.37,31688.8
+2026-02-01,1001,UTI Adulto,Assistencial,Pessoal,1398369.35,1462744.84
+2026-02-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,764693.41,786614.84
+2026-02-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,203918.24,208334.03
+2026-02-01,1001,UTI Adulto,Assistencial,Manutenção,101959.12,97174.52
+2026-02-01,1001,UTI Adulto,Assistencial,Utilidades,76469.34,79490.17
+2026-02-01,1001,UTI Adulto,Assistencial,Outras Despesas,76469.34,79374.45
+2026-02-01,1002,UTI Neonatal,Assistencial,Pessoal,873980.84,816202.44
+2026-02-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,477933.38,511779.18
+2026-02-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,127448.9,124461.03
+2026-02-01,1002,UTI Neonatal,Assistencial,Manutenção,63724.45,66737.62
+2026-02-01,1002,UTI Neonatal,Assistencial,Utilidades,47793.34,51349.78
+2026-02-01,1002,UTI Neonatal,Assistencial,Outras Despesas,47793.34,50311.93
+2026-02-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1319935.17,1458994.82
+2026-02-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1481593.48,1411174.13
+2026-02-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,230470.1,237925.79
+2026-02-01,1003,Centro Cirúrgico,Assistencial,Manutenção,131697.2,144414.88
+2026-02-01,1003,Centro Cirúrgico,Assistencial,Utilidades,98772.9,105658.21
+2026-02-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,98772.9,113457.1
+2026-02-01,1004,Pronto-Socorro,Assistencial,Pessoal,1107042.4,1113409.68
+2026-02-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,605382.28,572079.13
+2026-02-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,161435.28,141062.8
+2026-02-01,1004,Pronto-Socorro,Assistencial,Manutenção,80717.64,83781.83
+2026-02-01,1004,Pronto-Socorro,Assistencial,Utilidades,60538.23,66544.97
+2026-02-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,60538.23,65493.78
+2026-02-01,1005,Internação Clínica,Assistencial,Pessoal,1165307.79,1269363.95
+2026-02-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,637244.51,650502.39
+2026-02-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,169931.87,176426.2
+2026-02-01,1005,Internação Clínica,Assistencial,Manutenção,84965.93,87010.64
+2026-02-01,1005,Internação Clínica,Assistencial,Utilidades,63724.45,71764.91
+2026-02-01,1005,Internação Clínica,Assistencial,Outras Despesas,63724.45,66434.84
+2026-02-01,1006,Maternidade,Assistencial,Pessoal,699184.68,653617.91
+2026-02-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,382346.71,400920.2
+2026-02-01,1006,Maternidade,Assistencial,Serviços Terceirizados,101959.12,95775.13
+2026-02-01,1006,Maternidade,Assistencial,Manutenção,50979.56,54019.93
+2026-02-01,1006,Maternidade,Assistencial,Utilidades,38234.67,38571.88
+2026-02-01,1006,Maternidade,Assistencial,Outras Despesas,38234.67,38854.11
+2026-02-01,1007,Hemodinâmica,Assistencial,Pessoal,640919.29,732023.42
+2026-02-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,350484.48,354350.56
+2026-02-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,93462.53,95257.59
+2026-02-01,1007,Hemodinâmica,Assistencial,Manutenção,46731.26,51543.02
+2026-02-01,1007,Hemodinâmica,Assistencial,Utilidades,35048.45,33124.54
+2026-02-01,1007,Hemodinâmica,Assistencial,Outras Despesas,35048.45,37132.57
+2026-02-01,2001,Laboratório,Apoio,Pessoal,403375.77,435149.64
+2026-02-01,2001,Laboratório,Apoio,Materiais e Medicamentos,286760.03,291768.87
+2026-02-01,2001,Laboratório,Apoio,Serviços Terceirizados,143380.01,145345.39
+2026-02-01,2001,Laboratório,Apoio,Manutenção,57352.01,59537.11
+2026-02-01,2001,Laboratório,Apoio,Utilidades,47793.34,47100.54
+2026-02-01,2001,Laboratório,Apoio,Outras Despesas,38234.67,38312.13
+2026-02-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,509822.16,570265.28
+2026-02-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,276139.29,273401.97
+2026-02-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,207104.47,210401.1
+2026-02-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,276139.29,314640.57
+2026-02-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,69034.82,75844.24
+2026-02-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,69034.82,68267.58
+2026-02-01,2003,Farmácia,Apoio,Pessoal,235302.53,240418.36
+2026-02-01,2003,Farmácia,Apoio,Materiais e Medicamentos,408898.56,417316.17
+2026-02-01,2003,Farmácia,Apoio,Serviços Terceirizados,37172.6,35235.56
+2026-02-01,2003,Farmácia,Apoio,Manutenção,22303.56,22565.69
+2026-02-01,2003,Farmácia,Apoio,Utilidades,22303.56,22769.42
+2026-02-01,2003,Farmácia,Apoio,Outras Despesas,29738.08,30265.23
+2026-02-01,2004,Nutrição e Dietética,Apoio,Pessoal,254911.08,251370.92
+2026-02-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,310656.7,324495.42
+2026-02-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,55227.86,54855.13
+2026-02-01,2004,Nutrição e Dietética,Apoio,Manutenção,27613.93,28476.61
+2026-02-01,2004,Nutrição e Dietética,Apoio,Utilidades,34517.41,36088.7
+2026-02-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,20710.45,21271.97
+2026-02-01,2005,Lavanderia,Apoio,Pessoal,156868.36,156728.42
+2026-02-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,111517.79,100579.48
+2026-02-01,2005,Lavanderia,Apoio,Serviços Terceirizados,55758.89,51757.99
+2026-02-01,2005,Lavanderia,Apoio,Manutenção,22303.56,22336.36
+2026-02-01,2005,Lavanderia,Apoio,Utilidades,18586.3,18978.38
+2026-02-01,2005,Lavanderia,Apoio,Outras Despesas,14869.04,15709.98
+2026-02-01,3001,Administração Geral,Administrativo,Pessoal,560244.13,533115.63
+2026-02-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,53103.71,52261.34
+2026-02-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,265518.55,254831.22
+2026-02-01,3001,Administração Geral,Administrativo,Manutenção,84965.93,82644.96
+2026-02-01,3001,Administração Geral,Administrativo,Utilidades,63724.45,68711.16
+2026-02-01,3001,Administração Geral,Administrativo,Outras Despesas,63724.45,60379.59
+2026-02-01,3002,TI,Administrativo,Pessoal,268917.18,274445.1
+2026-02-01,3002,TI,Administrativo,Materiais e Medicamentos,25489.78,25536.6
+2026-02-01,3002,TI,Administrativo,Serviços Terceirizados,127448.9,126403.61
+2026-02-01,3002,TI,Administrativo,Manutenção,40783.65,37610.57
+2026-02-01,3002,TI,Administrativo,Utilidades,30587.74,33261.02
+2026-02-01,3002,TI,Administrativo,Outras Despesas,30587.74,31422.14
+2026-02-01,3003,Manutenção Predial,Administrativo,Pessoal,291326.95,302615.35
+2026-02-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,27613.93,28361.88
+2026-02-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,138069.64,151943.08
+2026-02-01,3003,Manutenção Predial,Administrativo,Manutenção,44182.29,46243.25
+2026-02-01,3003,Manutenção Predial,Administrativo,Utilidades,33136.71,33743.23
+2026-02-01,3003,Manutenção Predial,Administrativo,Outras Despesas,33136.71,32741.41
+2026-03-01,1001,UTI Adulto,Assistencial,Pessoal,1408157.94,1512723.92
+2026-03-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,770046.26,855557.27
+2026-03-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,205345.67,205826.99
+2026-03-01,1001,UTI Adulto,Assistencial,Manutenção,102672.84,102634.53
+2026-03-01,1001,UTI Adulto,Assistencial,Utilidades,77004.63,82746.52
+2026-03-01,1001,UTI Adulto,Assistencial,Outras Despesas,77004.63,81208.64
+2026-03-01,1002,UTI Neonatal,Assistencial,Pessoal,880098.71,898570.84
+2026-03-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,481278.92,499212.58
+2026-03-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,128341.04,138082.85
+2026-03-01,1002,UTI Neonatal,Assistencial,Manutenção,64170.52,64234.46
+2026-03-01,1002,UTI Neonatal,Assistencial,Utilidades,48127.89,51558.22
+2026-03-01,1002,UTI Neonatal,Assistencial,Outras Despesas,48127.89,45607.53
+2026-03-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1329174.72,1334024.81
+2026-03-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1491964.64,1410392.48
+2026-03-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,232083.39,223736.74
+2026-03-01,1003,Centro Cirúrgico,Assistencial,Manutenção,132619.08,132701.92
+2026-03-01,1003,Centro Cirúrgico,Assistencial,Utilidades,99464.31,107166.41
+2026-03-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,99464.31,100638.35
+2026-03-01,1004,Pronto-Socorro,Assistencial,Pessoal,1114791.7,1117470.09
+2026-03-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,609619.96,634980.73
+2026-03-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,162565.32,155747.91
+2026-03-01,1004,Pronto-Socorro,Assistencial,Manutenção,81282.66,86472.86
+2026-03-01,1004,Pronto-Socorro,Assistencial,Utilidades,60962.0,66938.03
+2026-03-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,60962.0,62484.07
+2026-03-01,1005,Internação Clínica,Assistencial,Pessoal,1173464.95,1211614.97
+2026-03-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,641705.22,680667.7
+2026-03-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,171121.39,185126.73
+2026-03-01,1005,Internação Clínica,Assistencial,Manutenção,85560.7,90914.81
+2026-03-01,1005,Internação Clínica,Assistencial,Utilidades,64170.52,67345.26
+2026-03-01,1005,Internação Clínica,Assistencial,Outras Despesas,64170.52,68107.7
+2026-03-01,1006,Maternidade,Assistencial,Pessoal,704078.97,686422.98
+2026-03-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,385023.13,414023.9
+2026-03-01,1006,Maternidade,Assistencial,Serviços Terceirizados,102672.84,107628.82
+2026-03-01,1006,Maternidade,Assistencial,Manutenção,51336.42,55152.93
+2026-03-01,1006,Maternidade,Assistencial,Utilidades,38502.31,41834.6
+2026-03-01,1006,Maternidade,Assistencial,Outras Despesas,38502.31,42580.19
+2026-03-01,1007,Hemodinâmica,Assistencial,Pessoal,645405.72,646249.45
+2026-03-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,352937.87,398148.26
+2026-03-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,94116.77,100409.0
+2026-03-01,1007,Hemodinâmica,Assistencial,Manutenção,47058.38,49291.06
+2026-03-01,1007,Hemodinâmica,Assistencial,Utilidades,35293.79,36048.15
+2026-03-01,1007,Hemodinâmica,Assistencial,Outras Despesas,35293.79,37936.38
+2026-03-01,2001,Laboratório,Apoio,Pessoal,406199.4,426004.04
+2026-03-01,2001,Laboratório,Apoio,Materiais e Medicamentos,288767.35,274847.28
+2026-03-01,2001,Laboratório,Apoio,Serviços Terceirizados,144383.67,158617.3
+2026-03-01,2001,Laboratório,Apoio,Manutenção,57753.47,59931.57
+2026-03-01,2001,Laboratório,Apoio,Utilidades,48127.89,51367.6
+2026-03-01,2001,Laboratório,Apoio,Outras Despesas,38502.31,41089.02
+2026-03-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,513390.91,526345.93
+2026-03-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,278072.26,300232.76
+2026-03-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,208554.2,209115.81
+2026-03-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,278072.26,286114.37
+2026-03-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,69518.07,73629.65
+2026-03-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,69518.07,71144.74
+2026-03-01,2003,Farmácia,Apoio,Pessoal,236949.65,239340.38
+2026-03-01,2003,Farmácia,Apoio,Materiais e Medicamentos,411760.85,456769.35
+2026-03-01,2003,Farmácia,Apoio,Serviços Terceirizados,37432.8,35908.84
+2026-03-01,2003,Farmácia,Apoio,Manutenção,22459.68,21787.1
+2026-03-01,2003,Farmácia,Apoio,Utilidades,22459.68,22706.98
+2026-03-01,2003,Farmácia,Apoio,Outras Despesas,29946.24,30331.39
+2026-03-01,2004,Nutrição e Dietética,Apoio,Pessoal,256695.46,264420.07
+2026-03-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,312831.29,336294.47
+2026-03-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,55614.45,59906.9
+2026-03-01,2004,Nutrição e Dietética,Apoio,Manutenção,27807.23,28847.16
+2026-03-01,2004,Nutrição e Dietética,Apoio,Utilidades,34759.03,38900.78
+2026-03-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,20855.42,21047.53
+2026-03-01,2005,Lavanderia,Apoio,Pessoal,157966.44,152268.37
+2026-03-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,112298.41,118487.11
+2026-03-01,2005,Lavanderia,Apoio,Serviços Terceirizados,56149.21,63318.92
+2026-03-01,2005,Lavanderia,Apoio,Manutenção,22459.68,24691.93
+2026-03-01,2005,Lavanderia,Apoio,Utilidades,18716.4,19275.82
+2026-03-01,2005,Lavanderia,Apoio,Outras Despesas,14973.12,15019.1
+2026-03-01,3001,Administração Geral,Administrativo,Pessoal,564165.84,623685.78
+2026-03-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,53475.44,51428.47
+2026-03-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,267377.18,277489.32
+2026-03-01,3001,Administração Geral,Administrativo,Manutenção,85560.7,89174.02
+2026-03-01,3001,Administração Geral,Administrativo,Utilidades,64170.52,69121.85
+2026-03-01,3001,Administração Geral,Administrativo,Outras Despesas,64170.52,69801.77
+2026-03-01,3002,TI,Administrativo,Pessoal,270799.6,272424.69
+2026-03-01,3002,TI,Administrativo,Materiais e Medicamentos,25668.21,28920.59
+2026-03-01,3002,TI,Administrativo,Serviços Terceirizados,128341.04,128080.69
+2026-03-01,3002,TI,Administrativo,Manutenção,41069.13,40083.49
+2026-03-01,3002,TI,Administrativo,Utilidades,30801.85,32840.73
+2026-03-01,3002,TI,Administrativo,Outras Despesas,30801.85,29494.37
+2026-03-01,3003,Manutenção Predial,Administrativo,Pessoal,293366.24,316128.75
+2026-03-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,27807.23,29432.84
+2026-03-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,139036.13,148841.86
+2026-03-01,3003,Manutenção Predial,Administrativo,Manutenção,44491.56,45011.24
+2026-03-01,3003,Manutenção Predial,Administrativo,Utilidades,33368.67,33599.5
+2026-03-01,3003,Manutenção Predial,Administrativo,Outras Despesas,33368.67,32997.75
+2026-04-01,1001,UTI Adulto,Assistencial,Pessoal,1418015.04,1443977.97
+2026-04-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,775436.59,864815.79
+2026-04-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,206783.09,194309.64
+2026-04-01,1001,UTI Adulto,Assistencial,Manutenção,103391.55,105377.71
+2026-04-01,1001,UTI Adulto,Assistencial,Utilidades,77543.66,78559.06
+2026-04-01,1001,UTI Adulto,Assistencial,Outras Despesas,77543.66,79679.48
+2026-04-01,1002,UTI Neonatal,Assistencial,Pessoal,886259.4,896111.09
+2026-04-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,484647.87,537231.33
+2026-04-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,129239.43,151703.55
+2026-04-01,1002,UTI Neonatal,Assistencial,Manutenção,64619.72,65864.46
+2026-04-01,1002,UTI Neonatal,Assistencial,Utilidades,48464.79,50061.62
+2026-04-01,1002,UTI Neonatal,Assistencial,Outras Despesas,48464.79,49073.9
+2026-04-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1338478.94,1385657.44
+2026-04-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1502408.39,1642665.67
+2026-04-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,233707.97,264313.91
+2026-04-01,1003,Centro Cirúrgico,Assistencial,Manutenção,133547.41,139463.26
+2026-04-01,1003,Centro Cirúrgico,Assistencial,Utilidades,100160.56,99150.64
+2026-04-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,100160.56,107399.01
+2026-04-01,1004,Pronto-Socorro,Assistencial,Pessoal,1122595.24,1160340.02
+2026-04-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,613887.3,750441.89
+2026-04-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,163703.28,175585.02
+2026-04-01,1004,Pronto-Socorro,Assistencial,Manutenção,81851.64,85999.66
+2026-04-01,1004,Pronto-Socorro,Assistencial,Utilidades,61388.73,62395.98
+2026-04-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,61388.73,63327.37
+2026-04-01,1005,Internação Clínica,Assistencial,Pessoal,1181679.2,1177360.35
+2026-04-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,646197.16,666531.84
+2026-04-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,172319.24,180244.42
+2026-04-01,1005,Internação Clínica,Assistencial,Manutenção,86159.62,85417.32
+2026-04-01,1005,Internação Clínica,Assistencial,Utilidades,64619.72,65642.32
+2026-04-01,1005,Internação Clínica,Assistencial,Outras Despesas,64619.72,66236.14
+2026-04-01,1006,Maternidade,Assistencial,Pessoal,709007.52,732554.04
+2026-04-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,387718.29,429845.77
+2026-04-01,1006,Maternidade,Assistencial,Serviços Terceirizados,103391.55,111458.71
+2026-04-01,1006,Maternidade,Assistencial,Manutenção,51695.77,56794.08
+2026-04-01,1006,Maternidade,Assistencial,Utilidades,38771.83,37468.36
+2026-04-01,1006,Maternidade,Assistencial,Outras Despesas,38771.83,42131.97
+2026-04-01,1007,Hemodinâmica,Assistencial,Pessoal,649923.56,624271.9
+2026-04-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,355408.44,392339.23
+2026-04-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,94775.58,96955.59
+2026-04-01,1007,Hemodinâmica,Assistencial,Manutenção,47387.79,51064.33
+2026-04-01,1007,Hemodinâmica,Assistencial,Utilidades,35540.84,33791.54
+2026-04-01,1007,Hemodinâmica,Assistencial,Outras Despesas,35540.84,35951.75
+2026-04-01,2001,Laboratório,Apoio,Pessoal,409042.8,435564.81
+2026-04-01,2001,Laboratório,Apoio,Materiais e Medicamentos,290788.72,324833.87
+2026-04-01,2001,Laboratório,Apoio,Serviços Terceirizados,145394.36,163969.87
+2026-04-01,2001,Laboratório,Apoio,Manutenção,58157.74,61096.31
+2026-04-01,2001,Laboratório,Apoio,Utilidades,48464.79,50678.49
+2026-04-01,2001,Laboratório,Apoio,Outras Despesas,38771.83,40978.36
+2026-04-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,516984.65,515620.29
+2026-04-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,280018.77,300769.08
+2026-04-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,210014.08,226128.74
+2026-04-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,280018.77,290629.65
+2026-04-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,70004.69,70482.43
+2026-04-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,70004.69,72500.06
+2026-04-01,2003,Farmácia,Apoio,Pessoal,238608.3,243412.51
+2026-04-01,2003,Farmácia,Apoio,Materiais e Medicamentos,414643.18,478647.01
+2026-04-01,2003,Farmácia,Apoio,Serviços Terceirizados,37694.83,38646.19
+2026-04-01,2003,Farmácia,Apoio,Manutenção,22616.9,22827.18
+2026-04-01,2003,Farmácia,Apoio,Utilidades,22616.9,22351.86
+2026-04-01,2003,Farmácia,Apoio,Outras Despesas,30155.87,33196.89
+2026-04-01,2004,Nutrição e Dietética,Apoio,Pessoal,258492.33,248350.58
+2026-04-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,315021.11,344763.51
+2026-04-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,56003.75,56406.8
+2026-04-01,2004,Nutrição e Dietética,Apoio,Manutenção,28001.88,28379.87
+2026-04-01,2004,Nutrição e Dietética,Apoio,Utilidades,35002.35,35217.12
+2026-04-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,21001.41,23641.62
+2026-04-01,2005,Lavanderia,Apoio,Pessoal,159072.2,160093.61
+2026-04-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,113084.5,109365.37
+2026-04-01,2005,Lavanderia,Apoio,Serviços Terceirizados,56542.25,61059.95
+2026-04-01,2005,Lavanderia,Apoio,Manutenção,22616.9,24663.59
+2026-04-01,2005,Lavanderia,Apoio,Utilidades,18847.42,19151.17
+2026-04-01,2005,Lavanderia,Apoio,Outras Despesas,15077.93,15943.71
+2026-04-01,3001,Administração Geral,Administrativo,Pessoal,568115.0,573472.17
+2026-04-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,53849.76,59105.73
+2026-04-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,269248.82,270451.34
+2026-04-01,3001,Administração Geral,Administrativo,Manutenção,86159.62,90748.27
+2026-04-01,3001,Administração Geral,Administrativo,Utilidades,64619.72,69586.47
+2026-04-01,3001,Administração Geral,Administrativo,Outras Despesas,64619.72,61729.01
+2026-04-01,3002,TI,Administrativo,Pessoal,272695.2,278631.15
+2026-04-01,3002,TI,Administrativo,Materiais e Medicamentos,25847.89,26383.29
+2026-04-01,3002,TI,Administrativo,Serviços Terceirizados,129239.43,118084.02
+2026-04-01,3002,TI,Administrativo,Manutenção,41356.62,45119.05
+2026-04-01,3002,TI,Administrativo,Utilidades,31017.46,33531.46
+2026-04-01,3002,TI,Administrativo,Outras Despesas,31017.46,31918.6
+2026-04-01,3003,Manutenção Predial,Administrativo,Pessoal,295419.8,333265.4
+2026-04-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,28001.88,30346.03
+2026-04-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,140009.38,145848.56
+2026-04-01,3003,Manutenção Predial,Administrativo,Manutenção,44803.0,44645.06
+2026-04-01,3003,Manutenção Predial,Administrativo,Utilidades,33602.25,34482.8
+2026-04-01,3003,Manutenção Predial,Administrativo,Outras Despesas,33602.25,36314.0
+2026-05-01,1001,UTI Adulto,Assistencial,Pessoal,1499338.2,1547155.48
+2026-05-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,780864.64,997798.03
+2026-05-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,208230.57,233435.63
+2026-05-01,1001,UTI Adulto,Assistencial,Manutenção,104115.29,112636.09
+2026-05-01,1001,UTI Adulto,Assistencial,Utilidades,78086.46,77847.71
+2026-05-01,1001,UTI Adulto,Assistencial,Outras Despesas,78086.46,83216.52
+2026-05-01,1002,UTI Neonatal,Assistencial,Pessoal,937086.38,982879.17
+2026-05-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,488040.4,548502.67
+2026-05-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,130144.11,148504.21
+2026-05-01,1002,UTI Neonatal,Assistencial,Manutenção,65072.05,70307.97
+2026-05-01,1002,UTI Neonatal,Assistencial,Utilidades,48804.04,47882.25
+2026-05-01,1002,UTI Neonatal,Assistencial,Outras Despesas,48804.04,53725.31
+2026-05-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1415240.71,1392442.05
+2026-05-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1512925.25,1704958.48
+2026-05-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,235343.93,264629.87
+2026-05-01,1003,Centro Cirúrgico,Assistencial,Manutenção,134482.24,137446.08
+2026-05-01,1003,Centro Cirúrgico,Assistencial,Utilidades,100861.68,97200.57
+2026-05-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,100861.68,108175.78
+2026-05-01,1004,Pronto-Socorro,Assistencial,Pessoal,1186976.08,1260305.89
+2026-05-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,618184.51,641639.13
+2026-05-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,164849.2,178305.26
+2026-05-01,1004,Pronto-Socorro,Assistencial,Manutenção,82424.6,90812.23
+2026-05-01,1004,Pronto-Socorro,Assistencial,Utilidades,61818.45,61276.76
+2026-05-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,61818.45,63707.17
+2026-05-01,1005,Internação Clínica,Assistencial,Pessoal,1249448.5,1291995.49
+2026-05-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,650720.54,755990.4
+2026-05-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,173525.48,206800.92
+2026-05-01,1005,Internação Clínica,Assistencial,Manutenção,86762.74,93841.11
+2026-05-01,1005,Internação Clínica,Assistencial,Utilidades,65072.05,66662.57
+2026-05-01,1005,Internação Clínica,Assistencial,Outras Despesas,65072.05,69661.7
+2026-05-01,1006,Maternidade,Assistencial,Pessoal,749669.1,743295.31
+2026-05-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,390432.32,423326.91
+2026-05-01,1006,Maternidade,Assistencial,Serviços Terceirizados,104115.29,119207.9
+2026-05-01,1006,Maternidade,Assistencial,Manutenção,52057.64,54076.59
+2026-05-01,1006,Maternidade,Assistencial,Utilidades,39043.23,43260.74
+2026-05-01,1006,Maternidade,Assistencial,Outras Despesas,39043.23,39073.09
+2026-05-01,1007,Hemodinâmica,Assistencial,Pessoal,687196.68,699799.41
+2026-05-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,357896.3,390988.85
+2026-05-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,95439.01,101836.0
+2026-05-01,1007,Hemodinâmica,Assistencial,Manutenção,47719.51,48108.15
+2026-05-01,1007,Hemodinâmica,Assistencial,Utilidades,35789.63,36928.92
+2026-05-01,1007,Hemodinâmica,Assistencial,Outras Despesas,35789.63,36884.58
+2026-05-01,2001,Laboratório,Apoio,Pessoal,432501.4,417133.02
+2026-05-01,2001,Laboratório,Apoio,Materiais e Medicamentos,292824.24,323849.53
+2026-05-01,2001,Laboratório,Apoio,Serviços Terceirizados,146412.12,159366.62
+2026-05-01,2001,Laboratório,Apoio,Manutenção,58564.85,58873.35
+2026-05-01,2001,Laboratório,Apoio,Utilidades,48804.04,46082.71
+2026-05-01,2001,Laboratório,Apoio,Outras Despesas,39043.23,38602.7
+2026-05-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,546633.72,587252.99
+2026-05-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,281978.9,336885.14
+2026-05-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,211484.17,241926.84
+2026-05-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,281978.9,297556.05
+2026-05-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,70494.72,71641.47
+2026-05-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,70494.72,69953.64
+2026-05-01,2003,Farmácia,Apoio,Pessoal,252292.49,250659.57
+2026-05-01,2003,Farmácia,Apoio,Materiais e Medicamentos,417545.68,449824.34
+2026-05-01,2003,Farmácia,Apoio,Serviços Terceirizados,37958.7,44541.3
+2026-05-01,2003,Farmácia,Apoio,Manutenção,22775.22,22699.19
+2026-05-01,2003,Farmácia,Apoio,Utilidades,22775.22,23226.22
+2026-05-01,2003,Farmácia,Apoio,Outras Despesas,30366.96,31832.37
+2026-05-01,2004,Nutrição e Dietética,Apoio,Pessoal,273316.86,280237.14
+2026-05-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,317226.26,369526.09
+2026-05-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,56395.78,62951.34
+2026-05-01,2004,Nutrição e Dietética,Apoio,Manutenção,28197.89,29123.84
+2026-05-01,2004,Nutrição e Dietética,Apoio,Utilidades,35247.36,38683.08
+2026-05-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,21148.42,19891.84
+2026-05-01,2005,Lavanderia,Apoio,Pessoal,168194.99,189205.84
+2026-05-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,113876.09,139756.24
+2026-05-01,2005,Lavanderia,Apoio,Serviços Terceirizados,56938.05,62655.65
+2026-05-01,2005,Lavanderia,Apoio,Manutenção,22775.22,23112.7
+2026-05-01,2005,Lavanderia,Apoio,Utilidades,18979.35,18644.85
+2026-05-01,2005,Lavanderia,Apoio,Outras Despesas,15183.48,15081.06
+2026-05-01,3001,Administração Geral,Administrativo,Pessoal,600696.4,632879.84
+2026-05-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,54226.71,59819.92
+2026-05-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,271133.56,311833.38
+2026-05-01,3001,Administração Geral,Administrativo,Manutenção,86762.74,91349.9
+2026-05-01,3001,Administração Geral,Administrativo,Utilidades,65072.05,71006.96
+2026-05-01,3001,Administração Geral,Administrativo,Outras Despesas,65072.05,59215.04
+2026-05-01,3002,TI,Administrativo,Pessoal,288334.27,298590.8
+2026-05-01,3002,TI,Administrativo,Materiais e Medicamentos,26028.82,27128.51
+2026-05-01,3002,TI,Administrativo,Serviços Terceirizados,130144.11,140489.93
+2026-05-01,3002,TI,Administrativo,Manutenção,41646.11,43751.04
+2026-05-01,3002,TI,Administrativo,Utilidades,31234.59,31865.72
+2026-05-01,3002,TI,Administrativo,Outras Despesas,31234.59,34287.13
+2026-05-01,3003,Manutenção Predial,Administrativo,Pessoal,312362.13,340005.33
+2026-05-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,28197.89,30900.96
+2026-05-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,140989.45,166601.89
+2026-05-01,3003,Manutenção Predial,Administrativo,Manutenção,45116.62,41744.15
+2026-05-01,3003,Manutenção Predial,Administrativo,Utilidades,33837.47,32405.98
+2026-05-01,3003,Manutenção Predial,Administrativo,Outras Despesas,33837.47,35285.56
+2026-06-01,1001,UTI Adulto,Assistencial,Pessoal,1509833.57,1521750.6
+2026-06-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,786330.7,1008339.8
+2026-06-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,209688.19,243912.5
+2026-06-01,1001,UTI Adulto,Assistencial,Manutenção,104844.09,106914.25
+2026-06-01,1001,UTI Adulto,Assistencial,Utilidades,78633.07,83376.5
+2026-06-01,1001,UTI Adulto,Assistencial,Outras Despesas,78633.07,86488.06
+2026-06-01,1002,UTI Neonatal,Assistencial,Pessoal,943645.98,970018.72
+2026-06-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,491456.69,566074.83
+2026-06-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,131055.12,155171.02
+2026-06-01,1002,UTI Neonatal,Assistencial,Manutenção,65527.56,65749.9
+2026-06-01,1002,UTI Neonatal,Assistencial,Utilidades,49145.67,49327.99
+2026-06-01,1002,UTI Neonatal,Assistencial,Outras Despesas,49145.67,52183.69
+2026-06-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1425147.39,1512447.66
+2026-06-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1523515.73,1701548.93
+2026-06-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,236991.34,271564.4
+2026-06-01,1003,Centro Cirúrgico,Assistencial,Manutenção,135423.62,144035.79
+2026-06-01,1003,Centro Cirúrgico,Assistencial,Utilidades,101567.72,109443.23
+2026-06-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,101567.72,106922.77
+2026-06-01,1004,Pronto-Socorro,Assistencial,Pessoal,1195284.91,1159799.92
+2026-06-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,622511.8,764844.0
+2026-06-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,166003.15,192979.5
+2026-06-01,1004,Pronto-Socorro,Assistencial,Manutenção,83001.57,89189.2
+2026-06-01,1004,Pronto-Socorro,Assistencial,Utilidades,62251.18,69726.38
+2026-06-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,62251.18,61984.62
+2026-06-01,1005,Internação Clínica,Assistencial,Pessoal,1258194.64,1302727.4
+2026-06-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,655275.58,725062.32
+2026-06-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,174740.15,205175.49
+2026-06-01,1005,Internação Clínica,Assistencial,Manutenção,87370.08,88050.3
+2026-06-01,1005,Internação Clínica,Assistencial,Utilidades,65527.56,70205.8
+2026-06-01,1005,Internação Clínica,Assistencial,Outras Despesas,65527.56,65279.89
+2026-06-01,1006,Maternidade,Assistencial,Pessoal,754916.79,717847.83
+2026-06-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,393165.35,481116.03
+2026-06-01,1006,Maternidade,Assistencial,Serviços Terceirizados,104844.09,123122.12
+2026-06-01,1006,Maternidade,Assistencial,Manutenção,52422.05,53024.15
+2026-06-01,1006,Maternidade,Assistencial,Utilidades,39316.53,41661.36
+2026-06-01,1006,Maternidade,Assistencial,Outras Despesas,39316.53,38375.38
+2026-06-01,1007,Hemodinâmica,Assistencial,Pessoal,692007.05,684556.26
+2026-06-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,360401.57,416510.61
+2026-06-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,96107.09,114194.14
+2026-06-01,1007,Hemodinâmica,Assistencial,Manutenção,48053.54,50125.92
+2026-06-01,1007,Hemodinâmica,Assistencial,Utilidades,36040.16,35866.18
+2026-06-01,1007,Hemodinâmica,Assistencial,Outras Despesas,36040.16,38895.31
+2026-06-01,2001,Laboratório,Apoio,Pessoal,435528.91,448755.7
+2026-06-01,2001,Laboratório,Apoio,Materiais e Medicamentos,294874.01,323370.43
+2026-06-01,2001,Laboratório,Apoio,Serviços Terceirizados,147437.01,167157.13
+2026-06-01,2001,Laboratório,Apoio,Manutenção,58974.8,63333.99
+2026-06-01,2001,Laboratório,Apoio,Utilidades,49145.67,53700.44
+2026-06-01,2001,Laboratório,Apoio,Outras Despesas,39316.53,38527.5
+2026-06-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,550460.16,547733.65
+2026-06-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,283952.75,314347.6
+2026-06-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,212964.56,233920.03
+2026-06-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,283952.75,304407.52
+2026-06-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,70988.19,80376.1
+2026-06-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,70988.19,72479.09
+2026-06-01,2003,Farmácia,Apoio,Pessoal,254058.53,284630.79
+2026-06-01,2003,Farmácia,Apoio,Materiais e Medicamentos,420468.5,468518.12
+2026-06-01,2003,Farmácia,Apoio,Serviços Terceirizados,38224.41,45507.4
+2026-06-01,2003,Farmácia,Apoio,Manutenção,22934.65,22250.5
+2026-06-01,2003,Farmácia,Apoio,Utilidades,22934.65,25072.12
+2026-06-01,2003,Farmácia,Apoio,Outras Despesas,30579.53,31081.15
+2026-06-01,2004,Nutrição e Dietética,Apoio,Pessoal,275230.08,289454.26
+2026-06-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,319446.85,340046.4
+2026-06-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,56790.55,58916.76
+2026-06-01,2004,Nutrição e Dietética,Apoio,Manutenção,28395.28,28752.4
+2026-06-01,2004,Nutrição e Dietética,Apoio,Utilidades,35494.09,37342.98
+2026-06-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,21296.46,20795.3
+2026-06-01,2005,Lavanderia,Apoio,Pessoal,169372.36,185500.66
+2026-06-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,114673.23,128310.12
+2026-06-01,2005,Lavanderia,Apoio,Serviços Terceirizados,57336.61,68253.32
+2026-06-01,2005,Lavanderia,Apoio,Manutenção,22934.65,25000.46
+2026-06-01,2005,Lavanderia,Apoio,Utilidades,19112.2,20349.12
+2026-06-01,2005,Lavanderia,Apoio,Outras Despesas,15289.76,16812.53
+2026-06-01,3001,Administração Geral,Administrativo,Pessoal,604901.27,601109.37
+2026-06-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,54606.3,65466.48
+2026-06-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,273031.49,330681.61
+2026-06-01,3001,Administração Geral,Administrativo,Manutenção,87370.08,90051.63
+2026-06-01,3001,Administração Geral,Administrativo,Utilidades,65527.56,68610.53
+2026-06-01,3001,Administração Geral,Administrativo,Outras Despesas,65527.56,64094.3
+2026-06-01,3002,TI,Administrativo,Pessoal,290352.61,323626.15
+2026-06-01,3002,TI,Administrativo,Materiais e Medicamentos,26211.02,31092.03
+2026-06-01,3002,TI,Administrativo,Serviços Terceirizados,131055.12,143785.85
+2026-06-01,3002,TI,Administrativo,Manutenção,41937.64,42549.91
+2026-06-01,3002,TI,Administrativo,Utilidades,31453.23,31287.88
+2026-06-01,3002,TI,Administrativo,Outras Despesas,31453.23,32201.78
+2026-06-01,3003,Manutenção Predial,Administrativo,Pessoal,314548.66,334268.98
+2026-06-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,28395.28,32952.61
+2026-06-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,141976.38,166753.28
+2026-06-01,3003,Manutenção Predial,Administrativo,Manutenção,45432.44,47515.32
+2026-06-01,3003,Manutenção Predial,Administrativo,Utilidades,34074.33,35212.69
+2026-06-01,3003,Manutenção Predial,Administrativo,Outras Despesas,34074.33,34526.54
+2026-07-01,1001,UTI Adulto,Assistencial,Pessoal,1520402.41,1519645.36
+2026-07-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,791835.01,964519.43
+2026-07-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,211156.0,251532.29
+2026-07-01,1001,UTI Adulto,Assistencial,Manutenção,105578.0,112789.59
+2026-07-01,1001,UTI Adulto,Assistencial,Utilidades,79183.5,83354.62
+2026-07-01,1001,UTI Adulto,Assistencial,Outras Despesas,79183.5,84514.58
+2026-07-01,1002,UTI Neonatal,Assistencial,Pessoal,950251.5,1016164.46
+2026-07-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,494896.88,551887.73
+2026-07-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,131972.5,158023.71
+2026-07-01,1002,UTI Neonatal,Assistencial,Manutenção,65986.25,68926.14
+2026-07-01,1002,UTI Neonatal,Assistencial,Utilidades,49489.69,51096.5
+2026-07-01,1002,UTI Neonatal,Assistencial,Outras Despesas,49489.69,49670.26
+2026-07-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1435123.43,1503383.66
+2026-07-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1534180.34,1827672.2
+2026-07-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,238650.27,291643.23
+2026-07-01,1003,Centro Cirúrgico,Assistencial,Manutenção,136371.59,144665.68
+2026-07-01,1003,Centro Cirúrgico,Assistencial,Utilidades,102278.69,103751.25
+2026-07-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,102278.69,102282.62
+2026-07-01,1004,Pronto-Socorro,Assistencial,Pessoal,1203651.9,1267985.84
+2026-07-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,626869.38,709560.52
+2026-07-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,167165.17,191277.69
+2026-07-01,1004,Pronto-Socorro,Assistencial,Manutenção,83582.58,88739.46
+2026-07-01,1004,Pronto-Socorro,Assistencial,Utilidades,62686.94,64968.71
+2026-07-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,62686.94,66315.73
+2026-07-01,1005,Internação Clínica,Assistencial,Pessoal,1267002.01,1240411.6
+2026-07-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,659862.51,741821.01
+2026-07-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,175963.34,198759.92
+2026-07-01,1005,Internação Clínica,Assistencial,Manutenção,87981.67,85379.75
+2026-07-01,1005,Internação Clínica,Assistencial,Utilidades,65986.25,66295.65
+2026-07-01,1005,Internação Clínica,Assistencial,Outras Despesas,65986.25,62900.5
+2026-07-01,1006,Maternidade,Assistencial,Pessoal,760201.2,765682.03
+2026-07-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,395917.51,468488.04
+2026-07-01,1006,Maternidade,Assistencial,Serviços Terceirizados,105578.0,113930.79
+2026-07-01,1006,Maternidade,Assistencial,Manutenção,52789.0,56361.43
+2026-07-01,1006,Maternidade,Assistencial,Utilidades,39591.75,39620.85
+2026-07-01,1006,Maternidade,Assistencial,Outras Despesas,39591.75,40997.82
+2026-07-01,1007,Hemodinâmica,Assistencial,Pessoal,696851.1,727367.6
+2026-07-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,362924.38,421906.31
+2026-07-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,96779.83,115531.1
+2026-07-01,1007,Hemodinâmica,Assistencial,Manutenção,48389.92,49510.76
+2026-07-01,1007,Hemodinâmica,Assistencial,Utilidades,36292.44,38367.99
+2026-07-01,1007,Hemodinâmica,Assistencial,Outras Despesas,36292.44,38260.01
+2026-07-01,2001,Laboratório,Apoio,Pessoal,438577.62,499825.42
+2026-07-01,2001,Laboratório,Apoio,Materiais e Medicamentos,296938.13,335901.15
+2026-07-01,2001,Laboratório,Apoio,Serviços Terceirizados,148469.06,170619.71
+2026-07-01,2001,Laboratório,Apoio,Manutenção,59387.63,57295.62
+2026-07-01,2001,Laboratório,Apoio,Utilidades,49489.69,50055.32
+2026-07-01,2001,Laboratório,Apoio,Outras Despesas,39591.75,38981.87
+2026-07-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,554313.38,548765.29
+2026-07-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,285940.42,349497.95
+2026-07-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,214455.32,237265.28
+2026-07-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,285940.42,292744.55
+2026-07-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,71485.11,77395.85
+2026-07-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,71485.11,77076.92
+2026-07-01,2003,Farmácia,Apoio,Pessoal,255836.94,262763.67
+2026-07-01,2003,Farmácia,Apoio,Materiais e Medicamentos,423411.78,501008.01
+2026-07-01,2003,Farmácia,Apoio,Serviços Terceirizados,38491.98,45943.49
+2026-07-01,2003,Farmácia,Apoio,Manutenção,23095.19,23124.82
+2026-07-01,2003,Farmácia,Apoio,Utilidades,23095.19,24095.95
+2026-07-01,2003,Farmácia,Apoio,Outras Despesas,30793.58,33225.49
+2026-07-01,2004,Nutrição e Dietética,Apoio,Pessoal,277156.69,289939.39
+2026-07-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,321682.97,358945.27
+2026-07-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,57188.08,65603.63
+2026-07-01,2004,Nutrição e Dietética,Apoio,Manutenção,28594.04,31028.25
+2026-07-01,2004,Nutrição e Dietética,Apoio,Utilidades,35742.55,35854.69
+2026-07-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,21445.53,21186.09
+2026-07-01,2005,Lavanderia,Apoio,Pessoal,170557.96,176495.29
+2026-07-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,115475.94,134234.98
+2026-07-01,2005,Lavanderia,Apoio,Serviços Terceirizados,57737.97,59045.01
+2026-07-01,2005,Lavanderia,Apoio,Manutenção,23095.19,23485.13
+2026-07-01,2005,Lavanderia,Apoio,Utilidades,19245.99,20402.31
+2026-07-01,2005,Lavanderia,Apoio,Outras Despesas,15396.79,15672.32
+2026-07-01,3001,Administração Geral,Administrativo,Pessoal,609135.58,582581.91
+2026-07-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,54988.54,63932.19
+2026-07-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,274942.71,282908.69
+2026-07-01,3001,Administração Geral,Administrativo,Manutenção,87981.67,88188.9
+2026-07-01,3001,Administração Geral,Administrativo,Utilidades,65986.25,71825.19
+2026-07-01,3001,Administração Geral,Administrativo,Outras Despesas,65986.25,70812.23
+2026-07-01,3002,TI,Administrativo,Pessoal,292385.08,289581.91
+2026-07-01,3002,TI,Administrativo,Materiais e Medicamentos,26394.5,30476.58
+2026-07-01,3002,TI,Administrativo,Serviços Terceirizados,131972.5,135456.98
+2026-07-01,3002,TI,Administrativo,Manutenção,42231.2,42465.92
+2026-07-01,3002,TI,Administrativo,Utilidades,31673.4,32129.9
+2026-07-01,3002,TI,Administrativo,Outras Despesas,31673.4,32149.93
+2026-07-01,3003,Manutenção Predial,Administrativo,Pessoal,316750.5,327640.14
+2026-07-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,28594.04,32452.68
+2026-07-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,142970.21,166064.84
+2026-07-01,3003,Manutenção Predial,Administrativo,Manutenção,45750.47,51316.2
+2026-07-01,3003,Manutenção Predial,Administrativo,Utilidades,34312.85,37198.69
+2026-07-01,3003,Manutenção Predial,Administrativo,Outras Despesas,34312.85,37720.53
+2026-08-01,1001,UTI Adulto,Assistencial,Pessoal,1531045.22,1531186.38
+2026-08-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,797377.86,948011.05
+2026-08-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,212634.1,225453.71
+2026-08-01,1001,UTI Adulto,Assistencial,Manutenção,106317.05,109822.42
+2026-08-01,1001,UTI Adulto,Assistencial,Utilidades,79737.79,85775.84
+2026-08-01,1001,UTI Adulto,Assistencial,Outras Despesas,79737.79,82670.79
+2026-08-01,1002,UTI Neonatal,Assistencial,Pessoal,956903.26,934856.7
+2026-08-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,498361.16,542691.22
+2026-08-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,132896.31,147440.95
+2026-08-01,1002,UTI Neonatal,Assistencial,Manutenção,66448.15,71688.41
+2026-08-01,1002,UTI Neonatal,Assistencial,Utilidades,49836.12,52721.42
+2026-08-01,1002,UTI Neonatal,Assistencial,Outras Despesas,49836.12,50036.0
+2026-08-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1445169.29,1494361.27
+2026-08-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1544919.6,1622462.48
+2026-08-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,240320.83,256899.5
+2026-08-01,1003,Centro Cirúrgico,Assistencial,Manutenção,137326.19,139498.9
+2026-08-01,1003,Centro Cirúrgico,Assistencial,Utilidades,102994.64,102383.39
+2026-08-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,102994.64,102094.47
+2026-08-01,1004,Pronto-Socorro,Assistencial,Pessoal,1212077.47,1191065.27
+2026-08-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,631257.47,700641.15
+2026-08-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,168335.33,190418.06
+2026-08-01,1004,Pronto-Socorro,Assistencial,Manutenção,84167.66,88744.15
+2026-08-01,1004,Pronto-Socorro,Assistencial,Utilidades,63125.75,64286.86
+2026-08-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,63125.75,67527.45
+2026-08-01,1005,Internação Clínica,Assistencial,Pessoal,1275871.02,1230419.05
+2026-08-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,664481.55,686758.56
+2026-08-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,177195.08,179540.73
+2026-08-01,1005,Internação Clínica,Assistencial,Manutenção,88597.54,91283.4
+2026-08-01,1005,Internação Clínica,Assistencial,Utilidades,66448.15,66675.63
+2026-08-01,1005,Internação Clínica,Assistencial,Outras Despesas,66448.15,68761.51
+2026-08-01,1006,Maternidade,Assistencial,Pessoal,765522.61,794381.06
+2026-08-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,398688.93,427465.01
+2026-08-01,1006,Maternidade,Assistencial,Serviços Terceirizados,106317.05,112317.19
+2026-08-01,1006,Maternidade,Assistencial,Manutenção,53158.52,50422.88
+2026-08-01,1006,Maternidade,Assistencial,Utilidades,39868.89,40692.21
+2026-08-01,1006,Maternidade,Assistencial,Outras Despesas,39868.89,41678.26
+2026-08-01,1007,Hemodinâmica,Assistencial,Pessoal,701729.06,726079.14
+2026-08-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,365464.85,383097.9
+2026-08-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,97457.29,108245.92
+2026-08-01,1007,Hemodinâmica,Assistencial,Manutenção,48728.65,49545.13
+2026-08-01,1007,Hemodinâmica,Assistencial,Utilidades,36546.49,37849.03
+2026-08-01,1007,Hemodinâmica,Assistencial,Outras Despesas,36546.49,35112.42
+2026-08-01,2001,Laboratório,Apoio,Pessoal,441647.66,429423.32
+2026-08-01,2001,Laboratório,Apoio,Materiais e Medicamentos,299016.7,295954.21
+2026-08-01,2001,Laboratório,Apoio,Serviços Terceirizados,149508.35,157746.5
+2026-08-01,2001,Laboratório,Apoio,Manutenção,59803.34,59971.13
+2026-08-01,2001,Laboratório,Apoio,Utilidades,49836.12,47440.99
+2026-08-01,2001,Laboratório,Apoio,Outras Despesas,39868.89,41392.02
+2026-08-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,558193.57,549634.74
+2026-08-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,287942.0,285839.68
+2026-08-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,215956.5,231504.77
+2026-08-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,287942.0,309840.24
+2026-08-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,71985.5,67783.17
+2026-08-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,71985.5,72257.07
+2026-08-01,2003,Farmácia,Apoio,Pessoal,257627.8,266805.09
+2026-08-01,2003,Farmácia,Apoio,Materiais e Medicamentos,426375.66,455576.19
+2026-08-01,2003,Farmácia,Apoio,Serviços Terceirizados,38761.42,40162.71
+2026-08-01,2003,Farmácia,Apoio,Manutenção,23256.85,24403.52
+2026-08-01,2003,Farmácia,Apoio,Utilidades,23256.85,24901.51
+2026-08-01,2003,Farmácia,Apoio,Outras Despesas,31009.14,34910.36
+2026-08-01,2004,Nutrição e Dietética,Apoio,Pessoal,279096.79,295007.43
+2026-08-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,323934.75,374675.77
+2026-08-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,57588.4,63993.99
+2026-08-01,2004,Nutrição e Dietética,Apoio,Manutenção,28794.2,30521.54
+2026-08-01,2004,Nutrição e Dietética,Apoio,Utilidades,35992.75,37036.45
+2026-08-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,21595.65,22262.52
+2026-08-01,2005,Lavanderia,Apoio,Pessoal,171751.87,175215.52
+2026-08-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,116284.27,130628.66
+2026-08-01,2005,Lavanderia,Apoio,Serviços Terceirizados,58142.14,65449.44
+2026-08-01,2005,Lavanderia,Apoio,Manutenção,23256.85,24030.83
+2026-08-01,2005,Lavanderia,Apoio,Utilidades,19380.71,20702.92
+2026-08-01,2005,Lavanderia,Apoio,Outras Despesas,15504.57,15630.9
+2026-08-01,3001,Administração Geral,Administrativo,Pessoal,613399.53,625781.16
+2026-08-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,55373.46,57032.38
+2026-08-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,276867.31,312128.09
+2026-08-01,3001,Administração Geral,Administrativo,Manutenção,88597.54,96542.55
+2026-08-01,3001,Administração Geral,Administrativo,Utilidades,66448.15,67644.13
+2026-08-01,3001,Administração Geral,Administrativo,Outras Despesas,66448.15,66168.48
+2026-08-01,3002,TI,Administrativo,Pessoal,294431.77,307990.55
+2026-08-01,3002,TI,Administrativo,Materiais e Medicamentos,26579.26,26597.39
+2026-08-01,3002,TI,Administrativo,Serviços Terceirizados,132896.31,125323.86
+2026-08-01,3002,TI,Administrativo,Manutenção,42526.82,43713.82
+2026-08-01,3002,TI,Administrativo,Utilidades,31895.11,35661.06
+2026-08-01,3002,TI,Administrativo,Outras Despesas,31895.11,33679.12
+2026-08-01,3003,Manutenção Predial,Administrativo,Pessoal,318967.75,317142.68
+2026-08-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,28794.2,32901.01
+2026-08-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,143971.0,161164.82
+2026-08-01,3003,Manutenção Predial,Administrativo,Manutenção,46070.72,47624.43
+2026-08-01,3003,Manutenção Predial,Administrativo,Utilidades,34553.04,34150.45
+2026-08-01,3003,Manutenção Predial,Administrativo,Outras Despesas,34553.04,36222.98
+2026-09-01,1001,UTI Adulto,Assistencial,Pessoal,1541762.54,1670115.21
+2026-09-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,802959.5,951028.36
+2026-09-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,214122.53,224621.61
+2026-09-01,1001,UTI Adulto,Assistencial,Manutenção,107061.27,115251.36
+2026-09-01,1001,UTI Adulto,Assistencial,Utilidades,80295.95,83322.87
+2026-09-01,1001,UTI Adulto,Assistencial,Outras Despesas,80295.95,78530.42
+2026-09-01,1002,UTI Neonatal,Assistencial,Pessoal,963601.59,1051840.2
+2026-09-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,501849.69,511700.0
+2026-09-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,133826.58,142001.41
+2026-09-01,1002,UTI Neonatal,Assistencial,Manutenção,66913.29,69406.99
+2026-09-01,1002,UTI Neonatal,Assistencial,Utilidades,50184.97,51658.4
+2026-09-01,1002,UTI Neonatal,Assistencial,Outras Despesas,50184.97,54017.35
+2026-09-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1455285.47,1644490.94
+2026-09-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1555734.04,1638166.93
+2026-09-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,242003.07,255780.81
+2026-09-01,1003,Centro Cirúrgico,Assistencial,Manutenção,138287.47,143002.36
+2026-09-01,1003,Centro Cirúrgico,Assistencial,Utilidades,103715.6,102052.37
+2026-09-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,103715.6,110054.74
+2026-09-01,1004,Pronto-Socorro,Assistencial,Pessoal,1220562.01,1256659.23
+2026-09-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,635676.27,680440.77
+2026-09-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,169513.67,171939.62
+2026-09-01,1004,Pronto-Socorro,Assistencial,Manutenção,84756.84,86293.05
+2026-09-01,1004,Pronto-Socorro,Assistencial,Utilidades,63567.63,61632.62
+2026-09-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,63567.63,68016.07
+2026-09-01,1005,Internação Clínica,Assistencial,Pessoal,1284802.12,1401217.35
+2026-09-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,669132.92,652590.57
+2026-09-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,178435.44,184193.05
+2026-09-01,1005,Internação Clínica,Assistencial,Manutenção,89217.72,94069.99
+2026-09-01,1005,Internação Clínica,Assistencial,Utilidades,66913.29,69998.84
+2026-09-01,1005,Internação Clínica,Assistencial,Outras Despesas,66913.29,70872.92
+2026-09-01,1006,Maternidade,Assistencial,Pessoal,770881.27,793425.37
+2026-09-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,401479.75,422251.74
+2026-09-01,1006,Maternidade,Assistencial,Serviços Terceirizados,107061.27,109711.93
+2026-09-01,1006,Maternidade,Assistencial,Manutenção,53530.63,58003.98
+2026-09-01,1006,Maternidade,Assistencial,Utilidades,40147.98,40761.95
+2026-09-01,1006,Maternidade,Assistencial,Outras Despesas,40147.98,40502.16
+2026-09-01,1007,Hemodinâmica,Assistencial,Pessoal,706641.16,734764.23
+2026-09-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,368023.11,386984.5
+2026-09-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,98139.49,103362.52
+2026-09-01,1007,Hemodinâmica,Assistencial,Manutenção,49069.75,52000.27
+2026-09-01,1007,Hemodinâmica,Assistencial,Utilidades,36802.31,38479.99
+2026-09-01,1007,Hemodinâmica,Assistencial,Outras Despesas,36802.31,36118.67
+2026-09-01,2001,Laboratório,Apoio,Pessoal,444739.19,482683.88
+2026-09-01,2001,Laboratório,Apoio,Materiais e Medicamentos,301109.81,308063.87
+2026-09-01,2001,Laboratório,Apoio,Serviços Terceirizados,150554.91,164574.43
+2026-09-01,2001,Laboratório,Apoio,Manutenção,60221.96,64590.74
+2026-09-01,2001,Laboratório,Apoio,Utilidades,50184.97,53036.94
+2026-09-01,2001,Laboratório,Apoio,Outras Despesas,40147.98,40331.57
+2026-09-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,562100.93,593151.26
+2026-09-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,289957.6,286028.1
+2026-09-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,217468.2,231942.55
+2026-09-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,289957.6,308798.3
+2026-09-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,72489.4,75490.17
+2026-09-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,72489.4,73881.59
+2026-09-01,2003,Farmácia,Apoio,Pessoal,259431.2,264511.23
+2026-09-01,2003,Farmácia,Apoio,Materiais e Medicamentos,429360.29,454216.23
+2026-09-01,2003,Farmácia,Apoio,Serviços Terceirizados,39032.75,41983.71
+2026-09-01,2003,Farmácia,Apoio,Manutenção,23419.65,23929.23
+2026-09-01,2003,Farmácia,Apoio,Utilidades,23419.65,24608.7
+2026-09-01,2003,Farmácia,Apoio,Outras Despesas,31226.2,29689.45
+2026-09-01,2004,Nutrição e Dietética,Apoio,Pessoal,281050.46,321262.1
+2026-09-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,326202.3,331170.49
+2026-09-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,57991.52,65757.1
+2026-09-01,2004,Nutrição e Dietética,Apoio,Manutenção,28995.76,30832.98
+2026-09-01,2004,Nutrição e Dietética,Apoio,Utilidades,36244.7,38485.12
+2026-09-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,21746.82,22629.24
+2026-09-01,2005,Lavanderia,Apoio,Pessoal,172954.13,172134.61
+2026-09-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,117098.26,120732.69
+2026-09-01,2005,Lavanderia,Apoio,Serviços Terceirizados,58549.13,57049.72
+2026-09-01,2005,Lavanderia,Apoio,Manutenção,23419.65,25564.75
+2026-09-01,2005,Lavanderia,Apoio,Utilidades,19516.38,20159.36
+2026-09-01,2005,Lavanderia,Apoio,Outras Despesas,15613.1,16221.64
+2026-09-01,3001,Administração Geral,Administrativo,Pessoal,617693.33,653443.2
+2026-09-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,55761.08,56212.8
+2026-09-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,278805.38,303889.33
+2026-09-01,3001,Administração Geral,Administrativo,Manutenção,89217.72,88650.89
+2026-09-01,3001,Administração Geral,Administrativo,Utilidades,66913.29,71908.54
+2026-09-01,3001,Administração Geral,Administrativo,Outras Despesas,66913.29,72893.56
+2026-09-01,3002,TI,Administrativo,Pessoal,296492.8,302775.19
+2026-09-01,3002,TI,Administrativo,Materiais e Medicamentos,26765.32,25673.56
+2026-09-01,3002,TI,Administrativo,Serviços Terceirizados,133826.58,125886.18
+2026-09-01,3002,TI,Administrativo,Manutenção,42824.51,45408.15
+2026-09-01,3002,TI,Administrativo,Utilidades,32118.38,30455.49
+2026-09-01,3002,TI,Administrativo,Outras Despesas,32118.38,33789.11
+2026-09-01,3003,Manutenção Predial,Administrativo,Pessoal,321200.53,310574.37
+2026-09-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,28995.76,30904.06
+2026-09-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,144978.8,144192.76
+2026-09-01,3003,Manutenção Predial,Administrativo,Manutenção,46393.22,48862.95
+2026-09-01,3003,Manutenção Predial,Administrativo,Utilidades,34794.91,36972.18
+2026-09-01,3003,Manutenção Predial,Administrativo,Outras Despesas,34794.91,37311.08
+2026-10-01,1001,UTI Adulto,Assistencial,Pessoal,1552554.88,1592941.41
+2026-10-01,1001,UTI Adulto,Assistencial,Materiais e Medicamentos,808580.22,975001.55
+2026-10-01,1001,UTI Adulto,Assistencial,Serviços Terceirizados,215621.39,210634.77
+2026-10-01,1001,UTI Adulto,Assistencial,Manutenção,107810.7,111116.39
+2026-10-01,1001,UTI Adulto,Assistencial,Utilidades,80858.02,82389.08
+2026-10-01,1001,UTI Adulto,Assistencial,Outras Despesas,80858.02,83128.29
+2026-10-01,1002,UTI Neonatal,Assistencial,Pessoal,970346.8,916750.78
+2026-10-01,1002,UTI Neonatal,Assistencial,Materiais e Medicamentos,505362.64,505119.89
+2026-10-01,1002,UTI Neonatal,Assistencial,Serviços Terceirizados,134763.37,136525.07
+2026-10-01,1002,UTI Neonatal,Assistencial,Manutenção,67381.68,71492.21
+2026-10-01,1002,UTI Neonatal,Assistencial,Utilidades,50536.26,47871.94
+2026-10-01,1002,UTI Neonatal,Assistencial,Outras Despesas,50536.26,51413.7
+2026-10-01,1003,Centro Cirúrgico,Assistencial,Pessoal,1465472.47,1591453.44
+2026-10-01,1003,Centro Cirúrgico,Assistencial,Materiais e Medicamentos,1566624.17,1558313.78
+2026-10-01,1003,Centro Cirúrgico,Assistencial,Serviços Terceirizados,243697.09,238491.05
+2026-10-01,1003,Centro Cirúrgico,Assistencial,Manutenção,139255.48,136658.3
+2026-10-01,1003,Centro Cirúrgico,Assistencial,Utilidades,104441.61,102920.26
+2026-10-01,1003,Centro Cirúrgico,Assistencial,Outras Despesas,104441.61,119307.58
+2026-10-01,1004,Pronto-Socorro,Assistencial,Pessoal,1229105.94,1169158.57
+2026-10-01,1004,Pronto-Socorro,Assistencial,Materiais e Medicamentos,640126.01,616588.48
+2026-10-01,1004,Pronto-Socorro,Assistencial,Serviços Terceirizados,170700.27,181958.45
+2026-10-01,1004,Pronto-Socorro,Assistencial,Manutenção,85350.13,84510.25
+2026-10-01,1004,Pronto-Socorro,Assistencial,Utilidades,64012.6,63056.53
+2026-10-01,1004,Pronto-Socorro,Assistencial,Outras Despesas,64012.6,64592.85
+2026-10-01,1005,Internação Clínica,Assistencial,Pessoal,1293795.73,1343710.59
+2026-10-01,1005,Internação Clínica,Assistencial,Materiais e Medicamentos,673816.85,648948.34
+2026-10-01,1005,Internação Clínica,Assistencial,Serviços Terceirizados,179684.49,173416.07
+2026-10-01,1005,Internação Clínica,Assistencial,Manutenção,89842.25,92851.1
+2026-10-01,1005,Internação Clínica,Assistencial,Utilidades,67381.68,70376.16
+2026-10-01,1005,Internação Clínica,Assistencial,Outras Despesas,67381.68,69698.39
+2026-10-01,1006,Maternidade,Assistencial,Pessoal,776277.44,812817.71
+2026-10-01,1006,Maternidade,Assistencial,Materiais e Medicamentos,404290.11,399200.15
+2026-10-01,1006,Maternidade,Assistencial,Serviços Terceirizados,107810.7,106495.46
+2026-10-01,1006,Maternidade,Assistencial,Manutenção,53905.35,55856.46
+2026-10-01,1006,Maternidade,Assistencial,Utilidades,40429.01,43604.9
+2026-10-01,1006,Maternidade,Assistencial,Outras Despesas,40429.01,42045.86
+2026-10-01,1007,Hemodinâmica,Assistencial,Pessoal,711587.65,747993.02
+2026-10-01,1007,Hemodinâmica,Assistencial,Materiais e Medicamentos,370599.27,374439.48
+2026-10-01,1007,Hemodinâmica,Assistencial,Serviços Terceirizados,98826.47,96075.9
+2026-10-01,1007,Hemodinâmica,Assistencial,Manutenção,49413.24,57114.04
+2026-10-01,1007,Hemodinâmica,Assistencial,Utilidades,37059.93,38061.78
+2026-10-01,1007,Hemodinâmica,Assistencial,Outras Despesas,37059.93,37197.64
+2026-10-01,2001,Laboratório,Apoio,Pessoal,447852.37,429771.36
+2026-10-01,2001,Laboratório,Apoio,Materiais e Medicamentos,303217.58,286610.24
+2026-10-01,2001,Laboratório,Apoio,Serviços Terceirizados,151608.79,137853.35
+2026-10-01,2001,Laboratório,Apoio,Manutenção,60643.52,69910.49
+2026-10-01,2001,Laboratório,Apoio,Utilidades,50536.26,48415.32
+2026-10-01,2001,Laboratório,Apoio,Outras Despesas,40429.01,41012.62
+2026-10-01,2002,Diagnóstico por Imagem,Apoio,Pessoal,566035.63,573500.29
+2026-10-01,2002,Diagnóstico por Imagem,Apoio,Materiais e Medicamentos,291987.3,296233.68
+2026-10-01,2002,Diagnóstico por Imagem,Apoio,Serviços Terceirizados,218990.48,213917.81
+2026-10-01,2002,Diagnóstico por Imagem,Apoio,Manutenção,291987.3,296201.14
+2026-10-01,2002,Diagnóstico por Imagem,Apoio,Utilidades,72996.83,74889.5
+2026-10-01,2002,Diagnóstico por Imagem,Apoio,Outras Despesas,72996.83,71909.63
+2026-10-01,2003,Farmácia,Apoio,Pessoal,261247.21,270781.59
+2026-10-01,2003,Farmácia,Apoio,Materiais e Medicamentos,432365.81,453356.8
+2026-10-01,2003,Farmácia,Apoio,Serviços Terceirizados,39305.98,40839.09
+2026-10-01,2003,Farmácia,Apoio,Manutenção,23583.59,25334.51
+2026-10-01,2003,Farmácia,Apoio,Utilidades,23583.59,24145.29
+2026-10-01,2003,Farmácia,Apoio,Outras Despesas,31444.79,32253.3
+2026-10-01,2004,Nutrição e Dietética,Apoio,Pessoal,283017.82,285503.37
+2026-10-01,2004,Nutrição e Dietética,Apoio,Materiais e Medicamentos,328485.71,320165.87
+2026-10-01,2004,Nutrição e Dietética,Apoio,Serviços Terceirizados,58397.46,60048.74
+2026-10-01,2004,Nutrição e Dietética,Apoio,Manutenção,29198.73,27842.46
+2026-10-01,2004,Nutrição e Dietética,Apoio,Utilidades,36498.41,35085.25
+2026-10-01,2004,Nutrição e Dietética,Apoio,Outras Despesas,21899.05,23403.43
+2026-10-01,2005,Lavanderia,Apoio,Pessoal,174164.81,173865.72
+2026-10-01,2005,Lavanderia,Apoio,Materiais e Medicamentos,117917.95,123825.69
+2026-10-01,2005,Lavanderia,Apoio,Serviços Terceirizados,58958.97,66086.21
+2026-10-01,2005,Lavanderia,Apoio,Manutenção,23583.59,23664.97
+2026-10-01,2005,Lavanderia,Apoio,Utilidades,19652.99,20411.36
+2026-10-01,2005,Lavanderia,Apoio,Outras Despesas,15722.39,15430.46
+2026-10-01,3001,Administração Geral,Administrativo,Pessoal,622017.18,599122.49
+2026-10-01,3001,Administração Geral,Administrativo,Materiais e Medicamentos,56151.4,57334.56
+2026-10-01,3001,Administração Geral,Administrativo,Serviços Terceirizados,280757.02,277086.86
+2026-10-01,3001,Administração Geral,Administrativo,Manutenção,89842.25,89416.68
+2026-10-01,3001,Administração Geral,Administrativo,Utilidades,67381.68,69982.32
+2026-10-01,3001,Administração Geral,Administrativo,Outras Despesas,67381.68,63246.61
+2026-10-01,3002,TI,Administrativo,Pessoal,298568.25,307075.67
+2026-10-01,3002,TI,Administrativo,Materiais e Medicamentos,26952.67,26530.32
+2026-10-01,3002,TI,Administrativo,Serviços Terceirizados,134763.37,124354.55
+2026-10-01,3002,TI,Administrativo,Manutenção,43124.28,43310.23
+2026-10-01,3002,TI,Administrativo,Utilidades,32343.21,34671.51
+2026-10-01,3002,TI,Administrativo,Outras Despesas,32343.21,32867.36
+2026-10-01,3003,Manutenção Predial,Administrativo,Pessoal,323448.93,336973.61
+2026-10-01,3003,Manutenção Predial,Administrativo,Materiais e Medicamentos,29198.73,30268.29
+2026-10-01,3003,Manutenção Predial,Administrativo,Serviços Terceirizados,145993.65,152889.36
+2026-10-01,3003,Manutenção Predial,Administrativo,Manutenção,46717.97,47680.09
+2026-10-01,3003,Manutenção Predial,Administrativo,Utilidades,35038.48,35554.72
+2026-10-01,3003,Manutenção Predial,Administrativo,Outras Despesas,35038.48,36879.99

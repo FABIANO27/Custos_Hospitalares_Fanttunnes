@@ -1,0 +1,331 @@
+﻿competencia,codigo_centro,centro_custo,tipo_centro,unidade_producao,volume,receita,leitos_dia_disponiveis
+2025-01-01,1001,UTI Adulto,Assistencial,Paciente-dia,493,1902542.31,930
+2025-01-01,1002,UTI Neonatal,Assistencial,Paciente-dia,311,1023128.13,620
+2025-01-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,575,5585840.22,0
+2025-01-01,1004,Pronto-Socorro,Assistencial,Atendimento,5430,3381655.14,0
+2025-01-01,1005,Internação Clínica,Assistencial,Paciente-dia,2205,2809626.34,2790
+2025-01-01,1006,Maternidade,Assistencial,Parto,259,1316273.78,0
+2025-01-01,1007,Hemodinâmica,Assistencial,Procedimento,219,1477830.32,0
+2025-01-01,2001,Laboratório,Apoio,Exame,34416,1403636.79,0
+2025-01-01,2002,Diagnóstico por Imagem,Apoio,Exame,5593,1722073.49,0
+2025-01-01,2003,Farmácia,Apoio,Dispensação,20224,0.0,0
+2025-01-01,2004,Nutrição e Dietética,Apoio,Refeição,48497,0.0,0
+2025-01-01,2005,Lavanderia,Apoio,Kg roupa,63131,0.0,0
+2025-01-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-01-01,3002,TI,Administrativo,-,0,0.0,0
+2025-01-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-02-01,1001,UTI Adulto,Assistencial,Paciente-dia,483,1905016.95,840
+2025-02-01,1002,UTI Neonatal,Assistencial,Paciente-dia,320,1054999.6,560
+2025-02-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,598,5682538.15,0
+2025-02-01,1004,Pronto-Socorro,Assistencial,Atendimento,5751,3607993.42,0
+2025-02-01,1005,Internação Clínica,Assistencial,Paciente-dia,2231,2875998.53,2520
+2025-02-01,1006,Maternidade,Assistencial,Parto,274,1397830.4,0
+2025-02-01,1007,Hemodinâmica,Assistencial,Procedimento,224,1522322.97,0
+2025-02-01,2001,Laboratório,Apoio,Exame,36523,1544706.37,0
+2025-02-01,2002,Diagnóstico por Imagem,Apoio,Exame,5853,1763379.27,0
+2025-02-01,2003,Farmácia,Apoio,Dispensação,20829,0.0,0
+2025-02-01,2004,Nutrição e Dietética,Apoio,Refeição,46316,0.0,0
+2025-02-01,2005,Lavanderia,Apoio,Kg roupa,65499,0.0,0
+2025-02-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-02-01,3002,TI,Administrativo,-,0,0.0,0
+2025-02-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-03-01,1001,UTI Adulto,Assistencial,Paciente-dia,495,1901798.17,930
+2025-03-01,1002,UTI Neonatal,Assistencial,Paciente-dia,328,1126780.16,620
+2025-03-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,636,5973510.11,0
+2025-03-01,1004,Pronto-Socorro,Assistencial,Atendimento,5521,3480707.03,0
+2025-03-01,1005,Internação Clínica,Assistencial,Paciente-dia,2352,3030765.03,2790
+2025-03-01,1006,Maternidade,Assistencial,Parto,273,1478514.89,0
+2025-03-01,1007,Hemodinâmica,Assistencial,Procedimento,241,1677600.76,0
+2025-03-01,2001,Laboratório,Apoio,Exame,37851,1654656.43,0
+2025-03-01,2002,Diagnóstico por Imagem,Apoio,Exame,6136,1935063.23,0
+2025-03-01,2003,Farmácia,Apoio,Dispensação,21678,0.0,0
+2025-03-01,2004,Nutrição e Dietética,Apoio,Refeição,55022,0.0,0
+2025-03-01,2005,Lavanderia,Apoio,Kg roupa,68013,0.0,0
+2025-03-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-03-01,3002,TI,Administrativo,-,0,0.0,0
+2025-03-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-04-01,1001,UTI Adulto,Assistencial,Paciente-dia,560,2192659.99,900
+2025-04-01,1002,UTI Neonatal,Assistencial,Paciente-dia,326,1095052.86,600
+2025-04-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,646,6137401.96,0
+2025-04-01,1004,Pronto-Socorro,Assistencial,Atendimento,5779,3672505.48,0
+2025-04-01,1005,Internação Clínica,Assistencial,Paciente-dia,2277,2839223.51,2700
+2025-04-01,1006,Maternidade,Assistencial,Parto,298,1530096.04,0
+2025-04-01,1007,Hemodinâmica,Assistencial,Procedimento,239,1677529.56,0
+2025-04-01,2001,Laboratório,Apoio,Exame,40230,1733730.45,0
+2025-04-01,2002,Diagnóstico por Imagem,Apoio,Exame,6299,1897763.29,0
+2025-04-01,2003,Farmácia,Apoio,Dispensação,22785,0.0,0
+2025-04-01,2004,Nutrição e Dietética,Apoio,Refeição,54949,0.0,0
+2025-04-01,2005,Lavanderia,Apoio,Kg roupa,73902,0.0,0
+2025-04-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-04-01,3002,TI,Administrativo,-,0,0.0,0
+2025-04-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-05-01,1001,UTI Adulto,Assistencial,Paciente-dia,532,2102024.18,930
+2025-05-01,1002,UTI Neonatal,Assistencial,Paciente-dia,361,1199962.24,620
+2025-05-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,680,6650530.2,0
+2025-05-01,1004,Pronto-Socorro,Assistencial,Atendimento,6489,3983133.96,0
+2025-05-01,1005,Internação Clínica,Assistencial,Paciente-dia,2539,3337703.53,2790
+2025-05-01,1006,Maternidade,Assistencial,Parto,310,1639173.13,0
+2025-05-01,1007,Hemodinâmica,Assistencial,Procedimento,254,1729799.7,0
+2025-05-01,2001,Laboratório,Apoio,Exame,41759,1758405.64,0
+2025-05-01,2002,Diagnóstico por Imagem,Apoio,Exame,6929,2225523.01,0
+2025-05-01,2003,Farmácia,Apoio,Dispensação,24006,0.0,0
+2025-05-01,2004,Nutrição e Dietética,Apoio,Refeição,57767,0.0,0
+2025-05-01,2005,Lavanderia,Apoio,Kg roupa,74912,0.0,0
+2025-05-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-05-01,3002,TI,Administrativo,-,0,0.0,0
+2025-05-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-06-01,1001,UTI Adulto,Assistencial,Paciente-dia,582,2333501.49,900
+2025-06-01,1002,UTI Neonatal,Assistencial,Paciente-dia,354,1210596.84,600
+2025-06-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,682,6985411.25,0
+2025-06-01,1004,Pronto-Socorro,Assistencial,Atendimento,6394,4148450.63,0
+2025-06-01,1005,Internação Clínica,Assistencial,Paciente-dia,2657,3444340.36,2700
+2025-06-01,1006,Maternidade,Assistencial,Parto,322,1764567.35,0
+2025-06-01,1007,Hemodinâmica,Assistencial,Procedimento,270,1856966.56,0
+2025-06-01,2001,Laboratório,Apoio,Exame,41279,1746252.47,0
+2025-06-01,2002,Diagnóstico por Imagem,Apoio,Exame,6829,2174051.35,0
+2025-06-01,2003,Farmácia,Apoio,Dispensação,22319,0.0,0
+2025-06-01,2004,Nutrição e Dietética,Apoio,Refeição,56884,0.0,0
+2025-06-01,2005,Lavanderia,Apoio,Kg roupa,75346,0.0,0
+2025-06-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-06-01,3002,TI,Administrativo,-,0,0.0,0
+2025-06-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-07-01,1001,UTI Adulto,Assistencial,Paciente-dia,559,2280202.36,930
+2025-07-01,1002,UTI Neonatal,Assistencial,Paciente-dia,365,1267412.65,620
+2025-07-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,712,7255572.67,0
+2025-07-01,1004,Pronto-Socorro,Assistencial,Atendimento,6430,4157702.0,0
+2025-07-01,1005,Internação Clínica,Assistencial,Paciente-dia,2592,3413597.04,2790
+2025-07-01,1006,Maternidade,Assistencial,Parto,309,1678124.56,0
+2025-07-01,1007,Hemodinâmica,Assistencial,Procedimento,273,1931934.73,0
+2025-07-01,2001,Laboratório,Apoio,Exame,41518,1818425.49,0
+2025-07-01,2002,Diagnóstico por Imagem,Apoio,Exame,7176,2364302.33,0
+2025-07-01,2003,Farmácia,Apoio,Dispensação,23302,0.0,0
+2025-07-01,2004,Nutrição e Dietética,Apoio,Refeição,54644,0.0,0
+2025-07-01,2005,Lavanderia,Apoio,Kg roupa,74652,0.0,0
+2025-07-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-07-01,3002,TI,Administrativo,-,0,0.0,0
+2025-07-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-08-01,1001,UTI Adulto,Assistencial,Paciente-dia,519,2094341.3,930
+2025-08-01,1002,UTI Neonatal,Assistencial,Paciente-dia,336,1140969.78,620
+2025-08-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,674,6764018.58,0
+2025-08-01,1004,Pronto-Socorro,Assistencial,Atendimento,5872,3813990.96,0
+2025-08-01,1005,Internação Clínica,Assistencial,Paciente-dia,2321,3145140.38,2790
+2025-08-01,1006,Maternidade,Assistencial,Parto,303,1681716.59,0
+2025-08-01,1007,Hemodinâmica,Assistencial,Procedimento,250,1710653.78,0
+2025-08-01,2001,Laboratório,Apoio,Exame,40055,1780766.28,0
+2025-08-01,2002,Diagnóstico por Imagem,Apoio,Exame,6526,2165399.82,0
+2025-08-01,2003,Farmácia,Apoio,Dispensação,21926,0.0,0
+2025-08-01,2004,Nutrição e Dietética,Apoio,Refeição,54882,0.0,0
+2025-08-01,2005,Lavanderia,Apoio,Kg roupa,72314,0.0,0
+2025-08-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-08-01,3002,TI,Administrativo,-,0,0.0,0
+2025-08-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-09-01,1001,UTI Adulto,Assistencial,Paciente-dia,512,2037031.39,900
+2025-09-01,1002,UTI Neonatal,Assistencial,Paciente-dia,324,1111294.48,600
+2025-09-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,661,6762215.93,0
+2025-09-01,1004,Pronto-Socorro,Assistencial,Atendimento,5914,3964028.39,0
+2025-09-01,1005,Internação Clínica,Assistencial,Paciente-dia,2254,3009581.98,2700
+2025-09-01,1006,Maternidade,Assistencial,Parto,289,1603657.66,0
+2025-09-01,1007,Hemodinâmica,Assistencial,Procedimento,247,1770211.95,0
+2025-09-01,2001,Laboratório,Apoio,Exame,40389,1744438.25,0
+2025-09-01,2002,Diagnóstico por Imagem,Apoio,Exame,6261,2003806.47,0
+2025-09-01,2003,Farmácia,Apoio,Dispensação,20643,0.0,0
+2025-09-01,2004,Nutrição e Dietética,Apoio,Refeição,52855,0.0,0
+2025-09-01,2005,Lavanderia,Apoio,Kg roupa,67522,0.0,0
+2025-09-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-09-01,3002,TI,Administrativo,-,0,0.0,0
+2025-09-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-10-01,1001,UTI Adulto,Assistencial,Paciente-dia,484,1998662.12,930
+2025-10-01,1002,UTI Neonatal,Assistencial,Paciente-dia,297,1034095.92,620
+2025-10-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,573,5927507.3,0
+2025-10-01,1004,Pronto-Socorro,Assistencial,Atendimento,5809,3840966.02,0
+2025-10-01,1005,Internação Clínica,Assistencial,Paciente-dia,2174,2959088.87,2790
+2025-10-01,1006,Maternidade,Assistencial,Parto,260,1467638.5,0
+2025-10-01,1007,Hemodinâmica,Assistencial,Procedimento,232,1656497.1,0
+2025-10-01,2001,Laboratório,Apoio,Exame,36113,1579485.87,0
+2025-10-01,2002,Diagnóstico por Imagem,Apoio,Exame,5965,1986683.67,0
+2025-10-01,2003,Farmácia,Apoio,Dispensação,20127,0.0,0
+2025-10-01,2004,Nutrição e Dietética,Apoio,Refeição,51144,0.0,0
+2025-10-01,2005,Lavanderia,Apoio,Kg roupa,64703,0.0,0
+2025-10-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-10-01,3002,TI,Administrativo,-,0,0.0,0
+2025-10-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-11-01,1001,UTI Adulto,Assistencial,Paciente-dia,483,1943639.78,900
+2025-11-01,1002,UTI Neonatal,Assistencial,Paciente-dia,304,1052934.7,600
+2025-11-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,564,5779213.86,0
+2025-11-01,1004,Pronto-Socorro,Assistencial,Atendimento,5228,3364875.44,0
+2025-11-01,1005,Internação Clínica,Assistencial,Paciente-dia,2180,2895983.67,2700
+2025-11-01,1006,Maternidade,Assistencial,Parto,272,1456715.92,0
+2025-11-01,1007,Hemodinâmica,Assistencial,Procedimento,227,1676456.39,0
+2025-11-01,2001,Laboratório,Apoio,Exame,34754,1567877.61,0
+2025-11-01,2002,Diagnóstico por Imagem,Apoio,Exame,5863,1905252.49,0
+2025-11-01,2003,Farmácia,Apoio,Dispensação,19499,0.0,0
+2025-11-01,2004,Nutrição e Dietética,Apoio,Refeição,46801,0.0,0
+2025-11-01,2005,Lavanderia,Apoio,Kg roupa,65549,0.0,0
+2025-11-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-11-01,3002,TI,Administrativo,-,0,0.0,0
+2025-11-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2025-12-01,1001,UTI Adulto,Assistencial,Paciente-dia,501,2006610.08,930
+2025-12-01,1002,UTI Neonatal,Assistencial,Paciente-dia,302,1051074.52,620
+2025-12-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,565,6027505.45,0
+2025-12-01,1004,Pronto-Socorro,Assistencial,Atendimento,5403,3570686.06,0
+2025-12-01,1005,Internação Clínica,Assistencial,Paciente-dia,2122,2961225.18,2790
+2025-12-01,1006,Maternidade,Assistencial,Parto,259,1445779.72,0
+2025-12-01,1007,Hemodinâmica,Assistencial,Procedimento,225,1648996.64,0
+2025-12-01,2001,Laboratório,Apoio,Exame,34777,1596858.41,0
+2025-12-01,2002,Diagnóstico por Imagem,Apoio,Exame,5547,1827374.32,0
+2025-12-01,2003,Farmácia,Apoio,Dispensação,19606,0.0,0
+2025-12-01,2004,Nutrição e Dietética,Apoio,Refeição,47784,0.0,0
+2025-12-01,2005,Lavanderia,Apoio,Kg roupa,60623,0.0,0
+2025-12-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2025-12-01,3002,TI,Administrativo,-,0,0.0,0
+2025-12-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-01-01,1001,UTI Adulto,Assistencial,Paciente-dia,479,2040218.11,930
+2026-01-01,1002,UTI Neonatal,Assistencial,Paciente-dia,312,1130608.13,620
+2026-01-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,598,6185371.99,0
+2026-01-01,1004,Pronto-Socorro,Assistencial,Atendimento,5444,3644176.17,0
+2026-01-01,1005,Internação Clínica,Assistencial,Paciente-dia,2177,3014267.39,2790
+2026-01-01,1006,Maternidade,Assistencial,Parto,269,1498302.94,0
+2026-01-01,1007,Hemodinâmica,Assistencial,Procedimento,222,1606029.18,0
+2026-01-01,2001,Laboratório,Apoio,Exame,35375,1583085.62,0
+2026-01-01,2002,Diagnóstico por Imagem,Apoio,Exame,5520,1791528.72,0
+2026-01-01,2003,Farmácia,Apoio,Dispensação,19620,0.0,0
+2026-01-01,2004,Nutrição e Dietética,Apoio,Refeição,49489,0.0,0
+2026-01-01,2005,Lavanderia,Apoio,Kg roupa,62634,0.0,0
+2026-01-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-01-01,3002,TI,Administrativo,-,0,0.0,0
+2026-01-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-02-01,1001,UTI Adulto,Assistencial,Paciente-dia,504,2135092.21,840
+2026-02-01,1002,UTI Neonatal,Assistencial,Paciente-dia,320,1164631.96,560
+2026-02-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,611,6260141.47,0
+2026-02-01,1004,Pronto-Socorro,Assistencial,Atendimento,5512,3761393.49,0
+2026-02-01,1005,Internação Clínica,Assistencial,Paciente-dia,2275,3192010.5,2520
+2026-02-01,1006,Maternidade,Assistencial,Parto,289,1644342.68,0
+2026-02-01,1007,Hemodinâmica,Assistencial,Procedimento,228,1664640.8,0
+2026-02-01,2001,Laboratório,Apoio,Exame,36476,1688280.79,0
+2026-02-01,2002,Diagnóstico por Imagem,Apoio,Exame,6200,2137643.95,0
+2026-02-01,2003,Farmácia,Apoio,Dispensação,19596,0.0,0
+2026-02-01,2004,Nutrição e Dietética,Apoio,Refeição,51370,0.0,0
+2026-02-01,2005,Lavanderia,Apoio,Kg roupa,62352,0.0,0
+2026-02-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-02-01,3002,TI,Administrativo,-,0,0.0,0
+2026-02-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-03-01,1001,UTI Adulto,Assistencial,Paciente-dia,505,2096478.32,930
+2026-03-01,1002,UTI Neonatal,Assistencial,Paciente-dia,338,1182683.17,620
+2026-03-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,597,6199135.31,0
+2026-03-01,1004,Pronto-Socorro,Assistencial,Atendimento,5857,4000996.95,0
+2026-03-01,1005,Internação Clínica,Assistencial,Paciente-dia,2293,3300013.19,2790
+2026-03-01,1006,Maternidade,Assistencial,Parto,289,1668856.94,0
+2026-03-01,1007,Hemodinâmica,Assistencial,Procedimento,247,1788514.25,0
+2026-03-01,2001,Laboratório,Apoio,Exame,37755,1767341.4,0
+2026-03-01,2002,Diagnóstico por Imagem,Apoio,Exame,6246,2168517.57,0
+2026-03-01,2003,Farmácia,Apoio,Dispensação,20971,0.0,0
+2026-03-01,2004,Nutrição e Dietética,Apoio,Refeição,51407,0.0,0
+2026-03-01,2005,Lavanderia,Apoio,Kg roupa,68411,0.0,0
+2026-03-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-03-01,3002,TI,Administrativo,-,0,0.0,0
+2026-03-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-04-01,1001,UTI Adulto,Assistencial,Paciente-dia,511,2126534.3,900
+2026-04-01,1002,UTI Neonatal,Assistencial,Paciente-dia,357,1308188.86,600
+2026-04-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,664,6981889.22,0
+2026-04-01,1004,Pronto-Socorro,Assistencial,Atendimento,6298,4253051.72,0
+2026-04-01,1005,Internação Clínica,Assistencial,Paciente-dia,2368,3243398.97,2700
+2026-04-01,1006,Maternidade,Assistencial,Parto,306,1758886.4,0
+2026-04-01,1007,Hemodinâmica,Assistencial,Procedimento,256,1918680.61,0
+2026-04-01,2001,Laboratório,Apoio,Exame,40981,1904323.07,0
+2026-04-01,2002,Diagnóstico por Imagem,Apoio,Exame,6494,2242436.62,0
+2026-04-01,2003,Farmácia,Apoio,Dispensação,22413,0.0,0
+2026-04-01,2004,Nutrição e Dietética,Apoio,Refeição,51778,0.0,0
+2026-04-01,2005,Lavanderia,Apoio,Kg roupa,68579,0.0,0
+2026-04-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-04-01,3002,TI,Administrativo,-,0,0.0,0
+2026-04-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-05-01,1001,UTI Adulto,Assistencial,Paciente-dia,579,2493231.71,930
+2026-05-01,1002,UTI Neonatal,Assistencial,Paciente-dia,369,1309321.64,620
+2026-05-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,688,7430982.27,0
+2026-05-01,1004,Pronto-Socorro,Assistencial,Atendimento,6089,4303727.4,0
+2026-05-01,1005,Internação Clínica,Assistencial,Paciente-dia,2605,3694023.48,2790
+2026-05-01,1006,Maternidade,Assistencial,Parto,313,1877118.17,0
+2026-05-01,1007,Hemodinâmica,Assistencial,Procedimento,264,2068562.85,0
+2026-05-01,2001,Laboratório,Apoio,Exame,41905,1983427.12,0
+2026-05-01,2002,Diagnóstico por Imagem,Apoio,Exame,6886,2406838.8,0
+2026-05-01,2003,Farmácia,Apoio,Dispensação,23048,0.0,0
+2026-05-01,2004,Nutrição e Dietética,Apoio,Refeição,56310,0.0,0
+2026-05-01,2005,Lavanderia,Apoio,Kg roupa,75645,0.0,0
+2026-05-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-05-01,3002,TI,Administrativo,-,0,0.0,0
+2026-05-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-06-01,1001,UTI Adulto,Assistencial,Paciente-dia,580,2479878.65,900
+2026-06-01,1002,UTI Neonatal,Assistencial,Paciente-dia,378,1447855.55,600
+2026-06-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,684,7665861.11,0
+2026-06-01,1004,Pronto-Socorro,Assistencial,Atendimento,6344,4387526.54,0
+2026-06-01,1005,Internação Clínica,Assistencial,Paciente-dia,2402,3452001.01,2700
+2026-06-01,1006,Maternidade,Assistencial,Parto,326,1919050.3,0
+2026-06-01,1007,Hemodinâmica,Assistencial,Procedimento,266,2031685.34,0
+2026-06-01,2001,Laboratório,Apoio,Exame,41054,1938416.63,0
+2026-06-01,2002,Diagnóstico por Imagem,Apoio,Exame,6789,2369760.18,0
+2026-06-01,2003,Farmácia,Apoio,Dispensação,23489,0.0,0
+2026-06-01,2004,Nutrição e Dietética,Apoio,Refeição,54732,0.0,0
+2026-06-01,2005,Lavanderia,Apoio,Kg roupa,75829,0.0,0
+2026-06-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-06-01,3002,TI,Administrativo,-,0,0.0,0
+2026-06-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-07-01,1001,UTI Adulto,Assistencial,Paciente-dia,573,2481302.04,930
+2026-07-01,1002,UTI Neonatal,Assistencial,Paciente-dia,359,1322335.24,620
+2026-07-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,737,7839814.45,0
+2026-07-01,1004,Pronto-Socorro,Assistencial,Atendimento,6208,4397058.34,0
+2026-07-01,1005,Internação Clínica,Assistencial,Paciente-dia,2456,3423506.51,2790
+2026-07-01,1006,Maternidade,Assistencial,Parto,320,1928292.4,0
+2026-07-01,1007,Hemodinâmica,Assistencial,Procedimento,268,2085479.31,0
+2026-07-01,2001,Laboratório,Apoio,Exame,40171,1910500.04,0
+2026-07-01,2002,Diagnóstico por Imagem,Apoio,Exame,6950,2386477.61,0
+2026-07-01,2003,Farmácia,Apoio,Dispensação,23885,0.0,0
+2026-07-01,2004,Nutrição e Dietética,Apoio,Refeição,57156,0.0,0
+2026-07-01,2005,Lavanderia,Apoio,Kg roupa,75584,0.0,0
+2026-07-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-07-01,3002,TI,Administrativo,-,0,0.0,0
+2026-07-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-08-01,1001,UTI Adulto,Assistencial,Paciente-dia,546,2337100.21,930
+2026-08-01,1002,UTI Neonatal,Assistencial,Paciente-dia,353,1323041.06,620
+2026-08-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,642,7069771.6,0
+2026-08-01,1004,Pronto-Socorro,Assistencial,Atendimento,6307,4392573.95,0
+2026-08-01,1005,Internação Clínica,Assistencial,Paciente-dia,2356,3276166.86,2790
+2026-08-01,1006,Maternidade,Assistencial,Parto,300,1771138.24,0
+2026-08-01,1007,Hemodinâmica,Assistencial,Procedimento,241,1851936.2,0
+2026-08-01,2001,Laboratório,Apoio,Exame,38063,1855321.16,0
+2026-08-01,2002,Diagnóstico por Imagem,Apoio,Exame,6280,2206784.86,0
+2026-08-01,2003,Farmácia,Apoio,Dispensação,21014,0.0,0
+2026-08-01,2004,Nutrição e Dietética,Apoio,Refeição,54426,0.0,0
+2026-08-01,2005,Lavanderia,Apoio,Kg roupa,69005,0.0,0
+2026-08-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-08-01,3002,TI,Administrativo,-,0,0.0,0
+2026-08-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-09-01,1001,UTI Adulto,Assistencial,Paciente-dia,512,2194143.08,900
+2026-09-01,1002,UTI Neonatal,Assistencial,Paciente-dia,327,1211115.61,600
+2026-09-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,623,6763139.06,0
+2026-09-01,1004,Pronto-Socorro,Assistencial,Atendimento,5878,4079051.92,0
+2026-09-01,1005,Internação Clínica,Assistencial,Paciente-dia,2194,3101744.69,2700
+2026-09-01,1006,Maternidade,Assistencial,Parto,292,1704361.44,0
+2026-09-01,1007,Hemodinâmica,Assistencial,Procedimento,247,1924497.07,0
+2026-09-01,2001,Laboratório,Apoio,Exame,39575,1838456.41,0
+2026-09-01,2002,Diagnóstico por Imagem,Apoio,Exame,6263,2241274.1,0
+2026-09-01,2003,Farmácia,Apoio,Dispensação,20496,0.0,0
+2026-09-01,2004,Nutrição e Dietética,Apoio,Refeição,54178,0.0,0
+2026-09-01,2005,Lavanderia,Apoio,Kg roupa,69316,0.0,0
+2026-09-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-09-01,3002,TI,Administrativo,-,0,0.0,0
+2026-09-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
+2026-10-01,1001,UTI Adulto,Assistencial,Paciente-dia,511,2177011.11,930
+2026-10-01,1002,UTI Neonatal,Assistencial,Paciente-dia,319,1233664.46,620
+2026-10-01,1003,Centro Cirúrgico,Assistencial,Cirurgia,586,6619298.78,0
+2026-10-01,1004,Pronto-Socorro,Assistencial,Atendimento,5718,4031262.94,0
+2026-10-01,1005,Internação Clínica,Assistencial,Paciente-dia,2170,3145489.32,2790
+2026-10-01,1006,Maternidade,Assistencial,Parto,273,1689149.43,0
+2026-10-01,1007,Hemodinâmica,Assistencial,Procedimento,233,1891017.8,0
+2026-10-01,2001,Laboratório,Apoio,Exame,35930,1792533.25,0
+2026-10-01,2002,Diagnóstico por Imagem,Apoio,Exame,5932,2161364.76,0
+2026-10-01,2003,Farmácia,Apoio,Dispensação,20449,0.0,0
+2026-10-01,2004,Nutrição e Dietética,Apoio,Refeição,51002,0.0,0
+2026-10-01,2005,Lavanderia,Apoio,Kg roupa,69212,0.0,0
+2026-10-01,3001,Administração Geral,Administrativo,-,0,0.0,0
+2026-10-01,3002,TI,Administrativo,-,0,0.0,0
+2026-10-01,3003,Manutenção Predial,Administrativo,-,0,0.0,0
